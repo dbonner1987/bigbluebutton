@@ -13,6 +13,7 @@
 
 
 @addSlideToCollection = (meetingId, presentationId, slideObject) ->
+	console.log(slideObject);
 	unless Meteor.Slides.findOne({meetingId: meetingId, "slide.id": slideObject.id})?
 		entry =
 			meetingId: meetingId

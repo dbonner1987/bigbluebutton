@@ -8,8 +8,10 @@ config.appName = 'BigBlueButton HTML5 Client'
 config.bbbServerVersion = '1.0-beta'
 config.copyrightYear = '2015'
 config.html5ClientBuild = 'NNNN'
-config.defaultWelcomeMessage = 'Welcome to %%CONFNAME%%!\r\rFor help on using BigBlueButton see these (short) <a href="event:http://www.bigbluebutton.org/content/videos"><u>tutorial videos</u></a>.\r\rTo join the audio bridge click the gear icon (upper-right hand corner).  Use a headset to avoid causing background noise for others.\r\r\r'
-config.defaultWelcomeMessageFooter = "This server is running a build of <a href='http://docs.bigbluebutton.org/1.0/10overview.html' target='_blank'><u>BigBlueButton #{config.bbbServerVersion}</u></a>."
+# config.defaultWelcomeMessage = 'Welcome to %%CONFNAME%%!\r\rFor help on using BigBlueButton see these (short) <a href="event:http://www.bigbluebutton.org/content/videos"><u>tutorial videos</u></a>.\r\rTo join the audio bridge click the gear icon (upper-right hand corner).  Use a headset to avoid causing background noise for others.\r\r\r'
+config.defaultWelcomeMessage = 'Welcome to %%CONFNAME%%'
+# config.defaultWelcomeMessageFooter = "This server is running a build of <a href='http://docs.bigbluebutton.org/1.0/10overview.html' target='_blank'><u>BigBlueButton #{config.bbbServerVersion}</u></a>."
+config.defaultWelcomeMessageFooter = ""
 
 config.maxUsernameLength = 30
 config.maxChatLength = 140

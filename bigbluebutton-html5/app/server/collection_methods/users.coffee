@@ -335,7 +335,7 @@ Meteor.methods
       message:
         chat_type: 'SYSTEM_MESSAGE'
         message: welcomeMessage
-        from_color: '0x3399FF'
+        from_color: '0x464748'
         to_userid: userId
         from_userid: 'SYSTEM_MESSAGE'
         from_username: ''

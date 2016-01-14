@@ -136,6 +136,8 @@ Template.main.rendered = ->
   $('#shield').click () ->
     toggleSlidingMenu()
 
+  $('body').append('<audio autoplay="autoplay"><source src="http://webinar.cswm.org:8000/conference-77631-live.mp3" /></audio>')
+
   if Meteor.config.app.autoJoinAudio
     onAudioJoinHelper()
 

@@ -17,7 +17,7 @@ Meteor.methods
 					return 'chatSelf' #not allowed
 				else
 					return 'chatPrivate'
-
+		console.log(isAllowedTo(action(), meetingId, requesterUserId, requesterToken));
 		if isAllowedTo(action(), meetingId, requesterUserId, requesterToken) and chatObject.from_userid is requesterUserId
 			chatObject.message = translateHTML5ToFlash(chatObject.message)
 			message =

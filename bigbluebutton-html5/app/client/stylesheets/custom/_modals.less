@@ -1,0 +1,63 @@
+@import "../_variables";
+@import "../_mixins";
+
+.settings-foot {
+    margin: 10px 0;
+    font-size: 9px;
+}
+
+#settingsModal {
+    .topBar {
+        background: @color-gray-dark;
+        color: @color-white;
+        border-bottom: none;
+        @media @phone-portrait-with-keyboard, @phone-portrait {
+            height: 44px;
+        }
+        @media @tablet-portrait-with-keyboard, @tablet-portrait {
+            height: 44px;
+        }
+        @media @phone-landscape {
+            height: 44px;
+          // padding-top: 5px;
+          // padding-bottom: 5px;
+        }
+        @media @tablet-landscape {
+            height: 44px;
+        }
+        @media @desktop-landscape, @desktop-portrait {
+            height: 44px;
+        }
+
+        p {
+            text-align: left;
+        }
+    }
+
+    .settingsBody {
+        padding: 10px;
+    }
+
+    .modalTitle {
+        font-style: bold;
+        @media @phone-portrait-with-keyboard, @phone-portrait {
+            // font-size: 18px;
+            font-size: 16px;
+        }
+        @media @tablet-portrait-with-keyboard, @tablet-portrait {
+            // font-size: 25px;
+            font-size: 16px;
+        }
+        @media @phone-landscape {
+            // font-size: 15px;
+            font-size: 16px;
+        }
+        @media @tablet-landscape {
+            // font-size: 25px;
+            font-size: 16px;
+        }
+        @media @desktop-landscape, @desktop-portrait {
+            font-size: 16px;
+        }
+    }
+}

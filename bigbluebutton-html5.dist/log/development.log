@@ -1,0 +1,318 @@
+{"level":"info","message":"server start","timestamp":"2016-01-12T12:45:12.120Z"}
+{"level":"info","message":"cleared Chat Collection (all meetings)!","timestamp":"2016-01-12T12:45:12.153Z"}
+{"level":"info","message":"cleared Polls Collection (all meetings)!","timestamp":"2016-01-12T12:45:12.166Z"}
+{"level":"info","message":"constructor RedisPubSub","timestamp":"2016-01-12T12:45:12.167Z"}
+{"level":"info","message":"Subscribing message on channel: bigbluebutton:from-bbb-apps:*","timestamp":"2016-01-12T12:45:12.169Z"}
+{"level":"info","message":"created pubsub","timestamp":"2016-01-12T12:45:12.169Z"}
+{"level":"info","message":"Subscribed to bigbluebutton:from-bbb-apps:*","timestamp":"2016-01-12T12:45:12.204Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"redis outgoing message  get_all_meetings_request","level":"info","timestamp":"2016-01-12T12:45:12.204Z"}
+{"message":"redis incoming message  get_all_meetings_reply  ","level":"info","timestamp":"2016-01-12T12:45:12.378Z"}
+{"level":"info","message":"Let's store some data for the running meetings so that when an HTML5 client joins everything is ready!","timestamp":"2016-01-12T12:45:12.379Z"}
+{"level":"info","message":"{\"payload\":{\"meetings\":[]},\"header\":{\"timestamp\":94583531,\"name\":\"get_all_meetings_reply\",\"current_time\":1452602712350,\"version\":\"0.0.1\"}}","timestamp":"2016-01-12T12:45:12.383Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_all_meetings_reply. ","timestamp":"2016-01-12T12:45:12.383Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:45:20.486Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:45:30.486Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:45:40.487Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:45:50.487Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:46:00.486Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:46:10.487Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:46:20.490Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:46:30.491Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:46:40.492Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:46:50.492Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:47:00.496Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:47:10.495Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:47:20.497Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:47:30.497Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:47:40.501Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:47:50.504Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:48:00.504Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:48:10.504Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:48:20.505Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:48:30.507Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:48:40.507Z"}
+{"message":"redis incoming message  meeting_created_message  ","level":"info","timestamp":"2016-01-12T12:48:45.109Z"}
+{"level":"info","message":"__added MEETING 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:45.129Z"}
+{"level":"info","message":"in callback after handleRedisMessage meeting_created_message. ","timestamp":"2016-01-12T12:48:45.130Z"}
+{"message":"redis incoming message  user_registered_message  ","level":"info","timestamp":"2016-01-12T12:48:45.698Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n user_registered_message   {JSON.stringify message}","timestamp":"2016-01-12T12:48:45.698Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_registered_message. ","timestamp":"2016-01-12T12:48:45.699Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_conversion_progress_message. ","timestamp":"2016-01-12T12:48:46.324Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_generated_message. ","timestamp":"2016-01-12T12:48:46.439Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_generated_message. ","timestamp":"2016-01-12T12:48:46.471Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_generated_message. ","timestamp":"2016-01-12T12:48:46.491Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_generated_message. ","timestamp":"2016-01-12T12:48:46.520Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_generated_message. ","timestamp":"2016-01-12T12:48:46.676Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_conversion_progress_message. ","timestamp":"2016-01-12T12:48:46.777Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_conversion_done_message. ","timestamp":"2016-01-12T12:48:47.724Z"}
+{"level":"info","message":"----removed slide[d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1452602925106/1] from 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:47.793Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_shared_message. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:48:47.803Z"}
+{"message":"redis incoming message  presentation_page_changed_message  ","level":"info","timestamp":"2016-01-12T12:48:47.804Z"}
+{"level":"info","message":"----removed slide[d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1452602925106/1] from 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:47.835Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_changed_message. ","timestamp":"2016-01-12T12:48:47.842Z"}
+{"message":"redis incoming message  permisssion_setting_initialized_message  ","level":"info","timestamp":"2016-01-12T12:48:48.085Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n permisssion_setting_initialized_message   {JSON.stringify message}","timestamp":"2016-01-12T12:48:48.087Z"}
+{"level":"info","message":"in callback after handleRedisMessage permisssion_setting_initialized_message. ","timestamp":"2016-01-12T12:48:48.089Z"}
+{"message":"redis incoming message  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-12T12:48:48.167Z"}
+{"level":"info","message":"a non-html5 user got validate_auth_token_reply.","timestamp":"2016-01-12T12:48:48.171Z"}
+{"level":"info","message":"in callback after handleRedisMessage validate_auth_token_reply. ","timestamp":"2016-01-12T12:48:48.171Z"}
+{"message":"redis incoming message  get_users_reply  ","level":"info","timestamp":"2016-01-12T12:48:48.179Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n get_users_reply   {JSON.stringify message}","timestamp":"2016-01-12T12:48:48.179Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_users_reply. ","timestamp":"2016-01-12T12:48:48.185Z"}
+{"message":"redis incoming message  user_joined_message  ","level":"info","timestamp":"2016-01-12T12:48:48.206Z"}
+{"level":"info","message":"_joining user (case2) userid=[zdt9r3ceowgt_2]:David. Users.size is now 1","timestamp":"2016-01-12T12:48:48.223Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_message. ","timestamp":"2016-01-12T12:48:48.225Z"}
+{"message":"redis incoming message  presenter_assigned_message  ","level":"info","timestamp":"2016-01-12T12:48:48.243Z"}
+{"level":"info","message":"in callback after handleRedisMessage presenter_assigned_message. ","timestamp":"2016-01-12T12:48:48.249Z"}
+{"level":"info","message":" Updating old presenter numUpdated=0, err=null","timestamp":"2016-01-12T12:48:48.256Z"}
+{"level":"info","message":" Updating new presenter numUpdated=1, err=null","timestamp":"2016-01-12T12:48:48.261Z"}
+{"message":"redis incoming message  user_status_changed_message  ","level":"info","timestamp":"2016-01-12T12:48:48.275Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n user_status_changed_message   {JSON.stringify message}","timestamp":"2016-01-12T12:48:48.279Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_status_changed_message. ","timestamp":"2016-01-12T12:48:48.281Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_chat_history_reply. ","timestamp":"2016-01-12T12:48:48.310Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_presentation_info_reply. ","timestamp":"2016-01-12T12:48:48.379Z"}
+{"message":"redis incoming message  get_users_reply  ","level":"info","timestamp":"2016-01-12T12:48:48.385Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n get_users_reply   {JSON.stringify message}","timestamp":"2016-01-12T12:48:48.389Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_users_reply. ","timestamp":"2016-01-12T12:48:48.391Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_recording_status_reply. ","timestamp":"2016-01-12T12:48:48.422Z"}
+{"message":"redis incoming message  user_registered_message  ","level":"info","timestamp":"2016-01-12T12:48:49.722Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n user_registered_message   {JSON.stringify message}","timestamp":"2016-01-12T12:48:49.722Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_registered_message. ","timestamp":"2016-01-12T12:48:49.722Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_resized_message. ","timestamp":"2016-01-12T12:48:50.326Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_presentation_info_reply. ","timestamp":"2016-01-12T12:48:50.478Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:48:50.514Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_page_resized_message. ","timestamp":"2016-01-12T12:48:51.280Z"}
+{"userid":"stb5exo52mqz","authToken":"ezuks3bvgj5s","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-12T12:48:51.700Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"redis outgoing message  validate_auth_token","level":"info","timestamp":"2016-01-12T12:48:51.706Z"}
+{"level":"info","message":"_added a dummy html5 user with: userId=[stb5exo52mqz] Users.size is now 2","timestamp":"2016-01-12T12:48:51.711Z"}
+{"message":"redis incoming message  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-12T12:48:51.713Z"}
+{"level":"info","message":"in callback after handleRedisMessage validate_auth_token_reply. In the queue we have 2 event(s) to process.","timestamp":"2016-01-12T12:48:51.716Z"}
+{"message":"redis incoming message  get_users_reply  ","level":"info","timestamp":"2016-01-12T12:48:51.717Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n get_users_reply   {JSON.stringify message}","timestamp":"2016-01-12T12:48:51.717Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_users_reply. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:48:51.717Z"}
+{"message":"redis incoming message  user_joined_message  ","level":"info","timestamp":"2016-01-12T12:48:51.717Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-12T12:48:51.719Z"}
+{"level":"info","message":"_(case1) UPDATING USER stb5exo52mqz, authToken= ezuks3bvgj5s, locked=true, username=Dave","timestamp":"2016-01-12T12:48:51.726Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_message. In the queue we have 2 event(s) to process.","timestamp":"2016-01-12T12:48:51.726Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_chat_history_reply. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:48:51.728Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_presentation_info_reply. ","timestamp":"2016-01-12T12:48:51.728Z"}
+{"level":"info","message":"_added/updated a system message in chat for user stb5exo52mqz","timestamp":"2016-01-12T12:48:51.731Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=stb5exo52mqz, authToken=ezuks3bvgj5s validated:true","timestamp":"2016-01-12T12:48:51.845Z"}
+{"level":"info","message":"user permissions viewer case","timestamp":"2016-01-12T12:48:51.847Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914 stb5exo52mqz ezuks3bvgj5s","timestamp":"2016-01-12T12:48:51.850Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:51.878Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:51.892Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:51.899Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914, stb5exo52mqz, ezuks3bvgj5s","timestamp":"2016-01-12T12:48:51.906Z"}
+{"level":"info","message":"found it from the first time stb5exo52mqz","timestamp":"2016-01-12T12:48:51.908Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=stb5exo52mqz, authToken=ezuks3bvgj5s validated:true","timestamp":"2016-01-12T12:48:51.909Z"}
+{"level":"info","message":"user permissions viewer case","timestamp":"2016-01-12T12:48:51.910Z"}
+{"level":"info","message":"stb5exo52mqz was allowed to subscribe to 'users'","timestamp":"2016-01-12T12:48:51.912Z"}
+{"level":"info","message":"username of the subscriber: Dave, connection_status becomes online","timestamp":"2016-01-12T12:48:51.928Z"}
+{"level":"info","message":"whiteboard clean status 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:48:51.941Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribePoll, userId=stb5exo52mqz, authToken=ezuks3bvgj5s validated:true","timestamp":"2016-01-12T12:48:51.952Z"}
+{"level":"info","message":"user permissions viewer case","timestamp":"2016-01-12T12:48:51.960Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeAnswers, userId=stb5exo52mqz, authToken=ezuks3bvgj5s validated:true","timestamp":"2016-01-12T12:48:51.976Z"}
+{"level":"info","message":"user permissions viewer case","timestamp":"2016-01-12T12:48:51.980Z"}
+{"level":"info","message":"publishing Poll for viewer: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914 stb5exo52mqz ezuks3bvgj5s","timestamp":"2016-01-12T12:48:51.987Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_chat_history_reply. ","timestamp":"2016-01-12T12:48:55.667Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:56.622Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:56.982Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:57.118Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:57.231Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:57.366Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:57.619Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.065Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.168Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.484Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.598Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.732Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.849Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:58.983Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:59.098Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:59.505Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:59.745Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:59.778Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:59.912Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:48:59.980Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.100Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.233Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.350Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.479Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:49:00.511Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.599Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.730Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.850Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:00.982Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:01.098Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:01.351Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:01.483Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:02.356Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:02.495Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:02.620Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:02.732Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:02.847Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:02.982Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:03.694Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:04.051Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:04.183Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:04.298Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:04.433Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:04.550Z"}
+{"message":"redis incoming message  user_joined_message  ","level":"info","timestamp":"2016-01-12T12:49:04.929Z"}
+{"level":"info","message":"_joining user (case2) userid=[s3w3ho]:David. Users.size is now 3","timestamp":"2016-01-12T12:49:04.946Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_message. ","timestamp":"2016-01-12T12:49:04.946Z"}
+{"message":"redis incoming message  user_joined_voice_message  ","level":"info","timestamp":"2016-01-12T12:49:04.956Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_voice_message. ","timestamp":"2016-01-12T12:49:04.964Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_voice_message. ","timestamp":"2016-01-12T12:49:04.967Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_voice_message. ","timestamp":"2016-01-12T12:49:04.969Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_voice_message. ","timestamp":"2016-01-12T12:49:04.974Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:05.056Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:05.057Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:05.059Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:05.063Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:05.385Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:05.522Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:05.633Z"}
+{"level":"info","message":"in callback after handleRedisMessage presentation_cursor_updated_message. ","timestamp":"2016-01-12T12:49:05.782Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:49:10.511Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:13.140Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:13.145Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:13.146Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:13.147Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:14.621Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:14.623Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:14.625Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:14.626Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.291Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.293Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.294Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.296Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.848Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.851Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.854Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:16.856Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:17.742Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:17.744Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:17.745Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:17.747Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:49:20.514Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:24.793Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:24.795Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:24.796Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:24.798Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:25.793Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:25.794Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:25.794Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:25.794Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:49:30.515Z"}
+{"message":"redis incoming message  user_registered_message  ","level":"info","timestamp":"2016-01-12T12:49:31.805Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n user_registered_message   {JSON.stringify message}","timestamp":"2016-01-12T12:49:31.806Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_registered_message. ","timestamp":"2016-01-12T12:49:31.806Z"}
+{"message":"redis incoming message  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-12T12:49:33.086Z"}
+{"level":"info","message":"a non-html5 user got validate_auth_token_reply.","timestamp":"2016-01-12T12:49:33.088Z"}
+{"level":"info","message":"in callback after handleRedisMessage validate_auth_token_reply. ","timestamp":"2016-01-12T12:49:33.088Z"}
+{"message":"redis incoming message  get_users_reply  ","level":"info","timestamp":"2016-01-12T12:49:33.090Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n get_users_reply   {JSON.stringify message}","timestamp":"2016-01-12T12:49:33.090Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_users_reply. ","timestamp":"2016-01-12T12:49:33.090Z"}
+{"message":"redis incoming message  user_joined_message  ","level":"info","timestamp":"2016-01-12T12:49:33.093Z"}
+{"level":"info","message":"_joining user (case2) userid=[b9345icwfuqu_2]:Davdid. Users.size is now 4","timestamp":"2016-01-12T12:49:33.111Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_joined_message. In the queue we have 2 event(s) to process.","timestamp":"2016-01-12T12:49:33.111Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_chat_history_reply. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:49:33.117Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_presentation_info_reply. ","timestamp":"2016-01-12T12:49:33.121Z"}
+{"message":"redis incoming message  get_users_reply  ","level":"info","timestamp":"2016-01-12T12:49:33.213Z"}
+{"level":"info","message":"WARNING!!! THE JSON MESSAGE WAS NOT OF TYPE SUPPORTED BY THIS APPLICATION\n get_users_reply   {JSON.stringify message}","timestamp":"2016-01-12T12:49:33.214Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_users_reply. ","timestamp":"2016-01-12T12:49:33.214Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_recording_status_reply. ","timestamp":"2016-01-12T12:49:33.231Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_presentation_info_reply. ","timestamp":"2016-01-12T12:49:35.133Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:39.390Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:39.392Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:39.392Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:39.393Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:40.401Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:40.402Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:40.403Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:40.403Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:49:40.514Z"}
+{"level":"info","message":"in callback after handleRedisMessage get_chat_history_reply. ","timestamp":"2016-01-12T12:49:40.678Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:41.572Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:41.573Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:41.573Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:41.574Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:42.588Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:42.592Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:42.596Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:42.598Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:43.649Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:43.650Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:43.651Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:43.652Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:44.623Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:44.624Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:44.624Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:44.625Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:45.785Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:45.790Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:45.790Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:45.791Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:46.750Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:46.752Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:46.752Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_voice_talking_message. ","timestamp":"2016-01-12T12:49:46.754Z"}
+{"message":"redis incoming message  user_left_message  ","level":"info","timestamp":"2016-01-12T12:49:46.788Z"}
+{"level":"info","message":"_deleting info for user Davdid b9345icwfuqu_2 numDeletions=1","timestamp":"2016-01-12T12:49:46.791Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_message. ","timestamp":"2016-01-12T12:49:46.792Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:49:50.522Z"}
+{"level":"info","message":"\na user lost connection: session.id=YLu3Mt4KcrQ9J5q7M userId = stb5exo52mqz, username=Dave, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:49:51.196Z"}
+{"level":"info","message":"username of the user losing connection: Dave, connection_status: becomes offline","timestamp":"2016-01-12T12:49:51.202Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914:stb5exo52mqz","timestamp":"2016-01-12T12:49:51.209Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"redis outgoing message  user_leaving_request","level":"info","timestamp":"2016-01-12T12:49:51.209Z"}
+{"message":"redis incoming message  user_left_message  ","level":"info","timestamp":"2016-01-12T12:49:51.214Z"}
+{"level":"info","message":"marking html5 user [stb5exo52mqz] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914]","timestamp":"2016-01-12T12:49:51.223Z"}
+{"level":"info","message":"_marking as offline html5 user Dave stb5exo52mqz  numChanged=1","timestamp":"2016-01-12T12:49:51.235Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_message. ","timestamp":"2016-01-12T12:49:51.236Z"}
+{"message":"redis incoming message  user_left_message  ","level":"info","timestamp":"2016-01-12T12:49:54.429Z"}
+{"level":"info","message":"_deleting info for user David zdt9r3ceowgt_2 numDeletions=1","timestamp":"2016-01-12T12:49:54.433Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_message. ","timestamp":"2016-01-12T12:49:54.438Z"}
+{"message":"redis incoming message  user_left_voice_message  ","level":"info","timestamp":"2016-01-12T12:49:54.616Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_voice_message. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:49:54.640Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_voice_message. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:49:54.640Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_voice_message. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:49:54.642Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_voice_message. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:49:54.642Z"}
+{"message":"redis incoming message  user_left_message  ","level":"info","timestamp":"2016-01-12T12:49:54.643Z"}
+{"level":"info","message":"_deleting info for user David s3w3ho numDeletions=1","timestamp":"2016-01-12T12:49:54.645Z"}
+{"level":"info","message":"in callback after handleRedisMessage user_left_message. ","timestamp":"2016-01-12T12:49:54.645Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:50:00.525Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:50:10.530Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:50:20.530Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:50:30.530Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:50:40.530Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:50:50.530Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:51:00.532Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:51:10.535Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:51:20.534Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:51:30.534Z"}
+{"message":"redis incoming message  end_and_kick_all_message  ","level":"info","timestamp":"2016-01-12T12:51:34.671Z"}
+{"level":"info","message":"DESTROYING MEETING 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:51:34.671Z"}
+{"level":"info","message":"end of meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914. Clear the meeting data from all collections","timestamp":"2016-01-12T12:51:34.673Z"}
+{"level":"info","message":"cleared Slides Collection (meetingId: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914!","timestamp":"2016-01-12T12:51:34.673Z"}
+{"level":"info","message":"cleared Presentations Collection (meetingId: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914!","timestamp":"2016-01-12T12:51:34.680Z"}
+{"level":"info","message":"_cleared Users Collection (meetingId: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914)!","timestamp":"2016-01-12T12:51:34.683Z"}
+{"level":"info","message":"cleared Shapes Collection (meetingId: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914!","timestamp":"2016-01-12T12:51:34.685Z"}
+{"level":"info","message":"cleared Chat Collection (meetingId: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914!","timestamp":"2016-01-12T12:51:34.687Z"}
+{"level":"info","message":"cleared Meetings Collection (meetingId: 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914!","timestamp":"2016-01-12T12:51:34.694Z"}
+{"level":"info","message":"in callback after handleRedisMessage end_and_kick_all_message. In the queue we have 1 event(s) to process.","timestamp":"2016-01-12T12:51:34.700Z"}
+{"message":"redis incoming message  meeting_destroyed_event  ","level":"info","timestamp":"2016-01-12T12:51:34.701Z"}
+{"level":"info","message":"DESTROYING MEETING 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:51:34.701Z"}
+{"level":"error","message":"Error! There was no such meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1452602924914","timestamp":"2016-01-12T12:51:34.703Z"}
+{"level":"info","message":"in callback after handleRedisMessage meeting_destroyed_event. ","timestamp":"2016-01-12T12:51:34.703Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:51:40.538Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:51:50.536Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:52:00.536Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:52:10.537Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:52:20.538Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:52:30.538Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:52:40.541Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:52:50.543Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:53:00.543Z"}
+{"level":"info","message":"in callback after handleRedisMessage keep_alive_reply. ","timestamp":"2016-01-12T12:53:10.544Z"}

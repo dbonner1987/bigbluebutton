@@ -1,0 +1,84 @@
+@import "../_variables";
+@import "../_mixins";
+
+.myNavbar {
+    background: @color-gray-dark;
+
+    .btn {
+        background: none;
+        color: @color-white;
+
+        &:hover {
+            color: @color-primary;
+        }
+    }
+}
+
+.navbarButton {
+  color: @color-primary;
+}
+
+.myNavbar {
+    .navbarTitle {
+        color: @color-white;
+
+        &.defaultTitle {
+            @media @landscape, @desktop-portrait {
+                left: 10px;
+            }
+        }
+
+        &.shiftedTitle {
+            @media @landscape, @desktop-portrait {
+                left: 50px;
+            }
+            @media @phone-portrait, @phone-portrait-with-keyboard {
+                left: 50px;
+                // padding-left: 10px;
+                // padding-right: 60px;
+            }
+            @media @tablet-portrait, @tablet-portrait-with-keyboard {
+                left: 50px;
+                // padding-left: 11px;
+                // padding-right: 66px;
+            }
+
+            // @media @landscape {
+            //     max-width: calc(~'100% - 225px'); // leaves room for 4 buttons (including margins)
+            // }
+            // @media @desktop-portrait {
+            //     max-width: calc(~'100% - 153.6px'); // leaves for 3 buttons
+            // }
+            // @media @phone-portrait, @phone-portrait-with-keyboard {
+            //     width: calc(~'100% - 150px');
+            // }
+            // @media @tablet-portrait, @tablet-portrait-with-keyboard {
+            //     width: calc(~'100% - 165px');
+            // }
+        }
+    }
+}
+
+.audioNavbarSection {
+    position: absolute;
+    top: 0;
+
+    @media @landscape, @desktop-portrait {
+        left: 0;
+    }
+    @media @phone-portrait, @phone-portrait-with-keyboard {
+        left: 0;
+        width: 50px;
+    }
+    @media @tablet-portrait, @tablet-portrait-with-keyboard {
+        left: 0;
+        width: 55px;
+    }
+    .muteIcon:hover {
+        color: #2A5E7C;
+    }
+}
+
+.rightNavbarSection {
+    padding-right: 10px;
+}

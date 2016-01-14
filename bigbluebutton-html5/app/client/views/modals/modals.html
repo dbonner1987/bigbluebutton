@@ -4,21 +4,21 @@
     <legend align="center">Audio Options</legend>
       <div id="audioButtonContainer">
       {{#if amIInAudio}}
-        {{#if amIListenOnlyAudio}}
+        <!-- {{#if amIListenOnlyAudio}} -->
           <!-- display listen only with exit -->
           {{> makeButton id="exitAudio" btn_class="exitAudio settingsButton joinAudioButton" i_class="ion-volume-mute" rel="tooltip"
           data_placement="bottom" title="Leave Audio Call"}}
-        {{else}}
+        <!-- {{else}} -->
           <!-- display microphone with exit -->
-          {{> makeButton id="exitAudio" btn_class="exitAudio settingsButton joinAudioButton" i_class="ion-volume-mute" rel="tooltip"
-          data_placement="bottom" title="Leave Audio Call"}}
-        {{/if}}
+          <!-- {{> makeButton id="exitAudio" btn_class="exitAudio settingsButton joinAudioButton" i_class="ion-volume-mute" rel="tooltip"
+          data_placement="bottom" title="Leave Audio Call"}} -->
+        <!-- {{/if}} -->
       {{else}}
         <!-- display both with join -->
-        {{#unless isMyMicLocked}}
+        <!-- {{#unless isMyMicLocked}}
           {{> makeButton id="joinMicrophone" btn_class="joinMicrophone settingsButton joinAudioButton" i_class="fi-microphone"
           rel="tooltip" data_placement="bottom" title="Join Microphone"}}
-        {{/unless}}
+        {{/unless}} -->
         {{> makeButton id="joinListenOnly" btn_class="joinListenOnly settingsButton joinAudioButton" i_class="fi-volume"
         rel="tooltip" data_placement="bottom" title="Join Listen only"}}
       {{/if}}
@@ -29,14 +29,14 @@
 <template name="settingsModal">
   <div class="bar topBar">
     <p>
-        <span class="modalTitle">BigBlueButton Settings</span>
+        <span class="modalTitle">Webinar Settings</span>
     </p>
   </div>
 
   <div class="settingsBody">
     {{> settingsAudio}}
-    {{> optionsFontSize}}
-    {{{getBBBSettingsInfo}}}
+    <!-- {{> optionsFontSize}} -->
+    <p class="settings-foot">{{{getBBBSettingsInfo}}}</p>
   </div>
 
   <div class="bar bottomBar">
@@ -50,7 +50,7 @@
   {{> makeButton id="no" btn_class="logoutButton" label="No"}}
 </template>
 
-<template name="optionsFontSize">
+<!-- <template name="optionsFontSize">
   <fieldset class="desktopSettingsFieldset">
     <legend align="center"><span class="chatOptionsText" >Chat Message Font Size</span><br/></legend>
     <table id="fontSizeTable" align="center">
@@ -61,4 +61,4 @@
       </tr>
     </table>
   </fieldset>
-</template>
+</template> -->

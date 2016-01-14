@@ -1,7 +1,8 @@
 Template.settingsModal.helpers
   getBBBSettingsInfo: ->
     info = getBuildInformation()
-    result = "(c) #{info.copyrightYear} BigBlueButton Inc. [build #{info.html5ClientBuild}] - For more information visit #{info.link}"
+    # result = "(c) #{info.copyrightYear} BigBlueButton Inc. [build #{info.html5ClientBuild}] - For more information visit #{info.link}"
+    result = "(c) #{info.copyrightYear} CSWM. Custom build - base powered by Big Blue Button."
 
 Template.logoutModal.events
   "click #yes": -> userLogout(getInSession("meetingId"), getInSession("userId"))
@@ -20,30 +21,30 @@ Template.settingsAudio.events
 Template.settingsModal.events
   "click #closeSettings": -> $("#settingsModal").foundation('reveal', 'close');
 
-Template.optionsFontSize.events
-  "click #decreaseFontSize": (event) ->
-    if getInSession("messageFontSize") is 8 # min
-      $('#decreaseFontSize').disabled = true
-      $('#decreaseFontSize').removeClass('icon fi-minus')
-      $('#decreaseFontSize').html('MIN')
-    else
-      setInSession "messageFontSize", getInSession("messageFontSize") - 2
-      adjustChatInputHeight()
-      setTimeout(scrollChatDown, 0)
-      if $('#increaseFontSize').html() is 'MAX'
-        $('#increaseFontSize').html('')
-        $('#increaseFontSize').addClass('icon fi-plus')
+# Template.optionsFontSize.events
+#   "click #decreaseFontSize": (event) ->
+#     if getInSession("messageFontSize") is 8 # min
+#       $('#decreaseFontSize').disabled = true
+#       $('#decreaseFontSize').removeClass('icon fi-minus')
+#       $('#decreaseFontSize').html('MIN')
+#     else
+#       setInSession "messageFontSize", getInSession("messageFontSize") - 2
+#       adjustChatInputHeight()
+#       setTimeout(scrollChatDown, 0)
+#       if $('#increaseFontSize').html() is 'MAX'
+#         $('#increaseFontSize').html('')
+#         $('#increaseFontSize').addClass('icon fi-plus')
 
-  "click #increaseFontSize": (event) ->
-    if getInSession("messageFontSize") is 40 # max
-      $('#increaseFontSize').disabled = true
-      $('#increaseFontSize').removeClass('icon fi-plus')
-      $('#increaseFontSize').html('MAX')
-    else
-      setInSession "messageFontSize", getInSession("messageFontSize") + 2
-      adjustChatInputHeight()
-      setTimeout(scrollChatDown, 0)
+#   "click #increaseFontSize": (event) ->
+#     if getInSession("messageFontSize") is 40 # max
+#       $('#increaseFontSize').disabled = true
+#       $('#increaseFontSize').removeClass('icon fi-plus')
+#       $('#increaseFontSize').html('MAX')
+#     else
+#       setInSession "messageFontSize", getInSession("messageFontSize") + 2
+#       adjustChatInputHeight()
+#       setTimeout(scrollChatDown, 0)
 
-      if $('#decreaseFontSize').html() is 'MIN'
-        $('#decreaseFontSize').html('')
-        $('#decreaseFontSize').addClass('icon fi-minus')
+#       if $('#decreaseFontSize').html() is 'MIN'
+#         $('#decreaseFontSize').html('')
+#         $('#decreaseFontSize').addClass('icon fi-minus')

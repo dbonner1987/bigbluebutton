@@ -1,6 +1,6 @@
 <template name="header">
   <nav id="navbar" class="myNavbar top-bar" role="navigation">
-    {{> makeButton btn_class="btn toggleUserlistButton navbarButton leftHamburgerButton" rel="tooltip" title="Toggle Userlist" span=true notification="all_chats"}}
+    {{> makeButton btn_class="btn toggleUserlistButton navbarButton leftHamburgerButton hide" rel="tooltip" title="Toggle Userlist" span=true notification="all_chats"}}
 
       {{#if amIInAudio}}
         <div class="audioNavbarSection">
@@ -22,17 +22,19 @@
           {{/if}}
         </div>
         <span class="navbarTitle shiftedTitle">
-          {{getWhiteboardTitle}}
+          {{getMeetingName}}
+          <div class="hide"><!-- {{getWhiteboardTitle}} --></div>
         </span>
       {{else}}
         <span class="navbarTitle defaultTitle">
-          {{getWhiteboardTitle}}
+          {{getMeetingName}}
+          <div class="hide"><!-- {{getWhiteboardTitle}} --></div>
         </span>
       {{/if}}
 
     <div class="rightNavbarSection">
       {{> makeButton id="settingsIcon" btn_class="settingsIcon navbarButton" i_class="ion-gear-b" rel="tooltip"
-      title="BigBlueButton Settings"}}
+      title="Webinar Settings"}}
 
       {{> makeButton id="logout" btn_class="signOutIcon navbarButton" i_class="ion-log-out" rel="tooltip"
       title="Logout"}}
@@ -50,7 +52,7 @@
     {{#if isDisconnected}}
       {{>status}}
     {{else}}
-      <div class="userlistMenu">
+      <div class="userlistMenu hiddenInLandscape">
         {{> usersList id="users" name="usersList"}}
       </div>
       <div class="settingsMenu">
