@@ -20,12 +20,6 @@
     -webkit-order: 1;
     order: 1;
     min-width: 99%; /* 100% - (2 #whileboard margins 0.25% each + 2 #main paddings 0.25% each) */
-    margin-top: 3px;
-    height: auto;
-    -webkit-flex: none;
-    -moz-flex: none; //2 2 50%;
-    -ms-flex: none;//2 2 50%;
-    flex: none;//2 2 50%;
   }
   &:-webkit-full-screen {
     width: 100%;
@@ -33,9 +27,6 @@
     margin-top: 0px;
     #whiteboard-navbar {
       display: none;
-      @media @mobile-portrait-with-keyboard, @desktop-portrait, @mobile-portrait {
-        display: none;
-      }
     }
     #whiteboard-container {
       height: 100%;
@@ -72,15 +63,6 @@
       height: 100%;
     }
   }
-
-  // For CSWM HTML%
-  #whiteboard-navbar {
-    display: none;
-    @media @mobile-portrait-with-keyboard, @desktop-portrait, @mobile-portrait {
-      display: none;
-    }
-  }
-
 }
 
 #whiteboard-paper {
