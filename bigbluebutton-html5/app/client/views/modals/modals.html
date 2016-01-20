@@ -4,21 +4,31 @@
     <legend align="center">Audio Options</legend>
       <div id="audioButtonContainer">
       {{#if amIInAudio}}
+        <!-- CSWM change
         {{#if amIListenOnlyAudio}}
+        -->
           <!-- display listen only with exit -->
           {{> makeButton id="exitAudio" btn_class="exitAudio settingsButton joinAudioButton" i_class="ion-volume-mute" rel="tooltip"
           data_placement="bottom" title="Leave Audio Call"}}
+        <!-- CSWM change
         {{else}}
+        -->
           <!-- display microphone with exit -->
+          <!-- CSWM change
           {{> makeButton id="exitAudio" btn_class="exitAudio settingsButton joinAudioButton" i_class="ion-volume-mute" rel="tooltip"
           data_placement="bottom" title="Leave Audio Call"}}
+          -->
+        <!-- CSWM change
         {{/if}}
+        -->
       {{else}}
         <!-- display both with join -->
+        <!-- CSWM change
         {{#if canJoinWithMic}}
           {{> makeButton id="joinMicrophone" btn_class="joinMicrophone settingsButton joinAudioButton" i_class="fi-microphone"
           rel="tooltip" data_placement="bottom" title="Join Microphone"}}
         {{/if}}
+        -->
         {{> makeButton id="joinListenOnly" btn_class="joinListenOnly settingsButton joinAudioButton" i_class="fi-volume"
         rel="tooltip" data_placement="bottom" title="Join Listen only"}}
       {{/if}}
@@ -35,8 +45,10 @@
 
   <div class="settingsBody">
     {{> settingsAudio}}
+    <!-- CSWM change
     {{> optionsFontSize}}
-    {{{getBBBSettingsInfo}}}
+    -->
+    <p class="settings-foot">{{{getBBBSettingsInfo}}}</p>
   </div>
 
   <div class="bar bottomBar">
@@ -50,6 +62,7 @@
   {{> makeButton id="no" btn_class="logoutButton" label="No"}}
 </template>
 
+<!-- CSWM change
 <template name="optionsFontSize">
   <fieldset class="desktopSettingsFieldset">
     <legend align="center"><span class="chatOptionsText" >Chat Message Font Size</span><br/></legend>
@@ -62,3 +75,4 @@
     </table>
   </fieldset>
 </template>
+-->

@@ -1,0 +1,34 @@
+@import "../_variables";
+@import "../_mixins";
+
+#newMessageInput {
+    border-right: 0;
+}
+
+
+#chat {
+    position: relative;
+
+    .chatBodyContainer {
+        @media @mobile-portrait-with-keyboard, @desktop-portrait, @mobile-portrait {
+            position: absolute;
+            left: 0;
+            bottom: 71px;
+            right: 0;
+            top: 0;
+        }
+    }
+
+    li {
+        @media @mobile-portrait-with-keyboard, @desktop-portrait, @mobile-portrait {
+            margin: 4px 10px;
+        }
+    }
+
+    #chatbody {
+        @media @mobile-portrait-with-keyboard, @desktop-portrait, @mobile-portrait {
+            height: 100%;
+            max-height: 100%;
+        }
+    }
+}

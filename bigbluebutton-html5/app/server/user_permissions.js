@@ -137,6 +137,7 @@ this.isAllowedTo = function(action, meetingId, userId, authToken) {
       // VIEWER
       } else if(((ref2 = user.user) != null ? ref2.role : void 0) === 'VIEWER') {
         Meteor.log.info("user permissions viewer case");
+        Meteor.log.info("VALID: "+viewer(meetingId, userId)[action]);
         return viewer(meetingId, userId)[action] || false;
 
       // MODERATOR

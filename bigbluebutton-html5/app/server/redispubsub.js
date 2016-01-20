@@ -90,6 +90,8 @@ this.publish = function(channel, message) {
   });
   if(Meteor.redisPubSub != null) {
     return Meteor.redisPubSub.pubClient.publish(channel, JSON.stringify(message), (err, res) => {
+      Meteor.log.info("Err: "+err);
+      Meteor.log.info("Err: "+res);
       if(err) {
         return Meteor.log.info("error", {
           error: err

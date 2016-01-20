@@ -1,0 +1,64 @@
+@import "../_variables";
+@import "../_mixins";
+
+.btn,
+button,
+#sendMessageButton {
+    color: @color-white;
+    background: @color-primary;
+
+    &:hover {
+        background: darken(@color-primary, 6%);
+    }
+}
+
+#sendMessageButton {
+    height: 50px;
+
+    @media @desktop-portrait {
+        font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media @phone-portrait {
+        font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media @tablet-portrait {
+        font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media @phone-portrait-with-keyboard {
+        font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media @tablet-portrait-with-keyboard {
+        font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media @landscape {
+        padding: 0px;
+        position: absolute;
+        bottom: 10px;
+        // &:hover {
+          // background: #3A82D4;
+        // }
+    }
+    @media @phone-landscape {
+        font-size: 15px;
+    }
+    @media @tablet-landscape {
+        font-size: 15px;
+    }
+    @media @desktop-landscape {
+        font-size: 15px;
+    }
+}
+
+.soaringButton {
+    display: none;
+}

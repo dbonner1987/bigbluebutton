@@ -1,0 +1,42 @@
+/* Imports for global scope */
+
+redis = Package['mrt:redis'].redis;
+Async = Package['arunoda:npm'].Async;
+_ = Package.underscore._;
+Router = Package['iron:router'].Router;
+RouteController = Package['iron:router'].RouteController;
+Blaze = Package.ui.Blaze;
+UI = Package.ui.UI;
+Handlebars = Package.ui.Handlebars;
+Status = Package['francocatena:status'].Status;
+Winston = Package['brentjanderson:winston-client'].Winston;
+TimeSync = Package['mizzao:timesync'].TimeSync;
+Raphael = Package['agnito:raphael'].Raphael;
+Hammer = Package['chriswessels:hammer'].Hammer;
+FastClick = Package.fastclick.FastClick;
+PowerQueue = Package['cfs:power-queue'].PowerQueue;
+ReactiveList = Package['cfs:reactive-list'].ReactiveList;
+MicroQueue = Package['cfs:micro-queue'].MicroQueue;
+ReactiveVar = Package['reactive-var'].ReactiveVar;
+Iron = Package['iron:core'].Iron;
+HTML = Package.htmljs.HTML;
+TAPi18next = Package['tap:i18n'].TAPi18next;
+TAPi18n = Package['tap:i18n'].TAPi18n;
+Meteor = Package.meteor.Meteor;
+WebApp = Package.webapp.WebApp;
+Log = Package.logging.Log;
+Tracker = Package.deps.Tracker;
+Deps = Package.deps.Deps;
+Session = Package.session.Session;
+DDP = Package['ddp-client'].DDP;
+Mongo = Package.mongo.Mongo;
+Spacebars = Package.spacebars.Spacebars;
+Template = Package.templating.Template;
+check = Package.check.check;
+Match = Package.check.Match;
+$ = Package.jquery.$;
+jQuery = Package.jquery.jQuery;
+Random = Package.random.Random;
+EJSON = Package.ejson.EJSON;
+LaunchScreen = Package['launch-screen'].LaunchScreen;
+

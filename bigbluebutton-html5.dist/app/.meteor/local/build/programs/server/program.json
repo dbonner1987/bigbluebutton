@@ -1,0 +1,568 @@
+{
+  "format": "javascript-image-pre1",
+  "arch": "os.linux.x86_64",
+  "load": [
+    {
+      "sourceMap": "packages/underscore.js.map",
+      "path": "packages/underscore.js"
+    },
+    {
+      "node_modules": "npm/meteor/node_modules",
+      "sourceMap": "packages/meteor.js.map",
+      "path": "packages/meteor.js"
+    },
+    {
+      "sourceMap": "packages/standard-app-packages.js.map",
+      "path": "packages/standard-app-packages.js"
+    },
+    {
+      "sourceMap": "packages/coffeescript.js.map",
+      "path": "packages/coffeescript.js"
+    },
+    {
+      "node_modules": "npm/mrt_redis/node_modules",
+      "sourceMap": "packages/mrt_redis.js.map",
+      "path": "packages/mrt_redis.js"
+    },
+    {
+      "sourceMap": "packages/arunoda_npm.js.map",
+      "path": "packages/arunoda_npm.js"
+    },
+    {
+      "sourceMap": "packages/amplify.js.map",
+      "path": "packages/amplify.js"
+    },
+    {
+      "sourceMap": "packages/base64.js.map",
+      "path": "packages/base64.js"
+    },
+    {
+      "sourceMap": "packages/ejson.js.map",
+      "path": "packages/ejson.js"
+    },
+    {
+      "node_modules": "npm/logging/node_modules",
+      "sourceMap": "packages/logging.js.map",
+      "path": "packages/logging.js"
+    },
+    {
+      "sourceMap": "packages/routepolicy.js.map",
+      "path": "packages/routepolicy.js"
+    },
+    {
+      "sourceMap": "packages/tracker.js.map",
+      "path": "packages/tracker.js"
+    },
+    {
+      "sourceMap": "packages/deps.js.map",
+      "path": "packages/deps.js"
+    },
+    {
+      "sourceMap": "packages/htmljs.js.map",
+      "path": "packages/htmljs.js"
+    },
+    {
+      "sourceMap": "packages/html-tools.js.map",
+      "path": "packages/html-tools.js"
+    },
+    {
+      "sourceMap": "packages/blaze-tools.js.map",
+      "path": "packages/blaze-tools.js"
+    },
+    {
+      "sourceMap": "packages/spacebars-compiler.js.map",
+      "path": "packages/spacebars-compiler.js"
+    },
+    {
+      "sourceMap": "packages/jquery.js.map",
+      "path": "packages/jquery.js"
+    },
+    {
+      "sourceMap": "packages/check.js.map",
+      "path": "packages/check.js"
+    },
+    {
+      "sourceMap": "packages/id-map.js.map",
+      "path": "packages/id-map.js"
+    },
+    {
+      "sourceMap": "packages/random.js.map",
+      "path": "packages/random.js"
+    },
+    {
+      "sourceMap": "packages/mongo-id.js.map",
+      "path": "packages/mongo-id.js"
+    },
+    {
+      "sourceMap": "packages/diff-sequence.js.map",
+      "path": "packages/diff-sequence.js"
+    },
+    {
+      "sourceMap": "packages/observe-sequence.js.map",
+      "path": "packages/observe-sequence.js"
+    },
+    {
+      "sourceMap": "packages/reactive-var.js.map",
+      "path": "packages/reactive-var.js"
+    },
+    {
+      "sourceMap": "packages/blaze.js.map",
+      "path": "packages/blaze.js"
+    },
+    {
+      "sourceMap": "packages/spacebars.js.map",
+      "path": "packages/spacebars.js"
+    },
+    {
+      "sourceMap": "packages/ui.js.map",
+      "path": "packages/ui.js"
+    },
+    {
+      "sourceMap": "packages/boilerplate-generator.js.map",
+      "path": "packages/boilerplate-generator.js",
+      "assets": {
+        "boilerplate_web.browser.html": "assets/packages/boilerplate-generator/boilerplate_web.browser.html",
+        "boilerplate_web.cordova.html": "assets/packages/boilerplate-generator/boilerplate_web.cordova.html"
+      }
+    },
+    {
+      "sourceMap": "packages/webapp-hashing.js.map",
+      "path": "packages/webapp-hashing.js"
+    },
+    {
+      "node_modules": "npm/webapp/node_modules",
+      "sourceMap": "packages/webapp.js.map",
+      "path": "packages/webapp.js"
+    },
+    {
+      "sourceMap": "packages/templating.js.map",
+      "path": "packages/templating.js"
+    },
+    {
+      "sourceMap": "packages/iron_core.js.map",
+      "path": "packages/iron_core.js"
+    },
+    {
+      "sourceMap": "packages/iron_dynamic-template.js.map",
+      "path": "packages/iron_dynamic-template.js",
+      "assets": {
+        "dynamic_template.html": "assets/packages/iron_dynamic-template/dynamic_template.html"
+      }
+    },
+    {
+      "sourceMap": "packages/iron_layout.js.map",
+      "path": "packages/iron_layout.js",
+      "assets": {
+        "default_layout.html": "assets/packages/iron_layout/default_layout.html"
+      }
+    },
+    {
+      "sourceMap": "packages/iron_url.js.map",
+      "path": "packages/iron_url.js"
+    },
+    {
+      "sourceMap": "packages/iron_middleware-stack.js.map",
+      "path": "packages/iron_middleware-stack.js"
+    },
+    {
+      "sourceMap": "packages/iron_location.js.map",
+      "path": "packages/iron_location.js"
+    },
+    {
+      "node_modules": "npm/npm-mongo/node_modules",
+      "sourceMap": "packages/npm-mongo.js.map",
+      "path": "packages/npm-mongo.js"
+    },
+    {
+      "sourceMap": "packages/ordered-dict.js.map",
+      "path": "packages/ordered-dict.js"
+    },
+    {
+      "sourceMap": "packages/geojson-utils.js.map",
+      "path": "packages/geojson-utils.js"
+    },
+    {
+      "sourceMap": "packages/minimongo.js.map",
+      "path": "packages/minimongo.js"
+    },
+    {
+      "sourceMap": "packages/retry.js.map",
+      "path": "packages/retry.js"
+    },
+    {
+      "sourceMap": "packages/ddp-common.js.map",
+      "path": "packages/ddp-common.js"
+    },
+    {
+      "node_modules": "npm/ddp-client/node_modules",
+      "sourceMap": "packages/ddp-client.js.map",
+      "path": "packages/ddp-client.js"
+    },
+    {
+      "node_modules": "npm/babel-compiler/node_modules",
+      "sourceMap": "packages/babel-compiler.js.map",
+      "path": "packages/babel-compiler.js"
+    },
+    {
+      "sourceMap": "packages/ecmascript.js.map",
+      "path": "packages/ecmascript.js"
+    },
+    {
+      "sourceMap": "packages/callback-hook.js.map",
+      "path": "packages/callback-hook.js"
+    },
+    {
+      "sourceMap": "packages/babel-runtime.js.map",
+      "path": "packages/babel-runtime.js"
+    },
+    {
+      "node_modules": "npm/promise/node_modules",
+      "sourceMap": "packages/promise.js.map",
+      "path": "packages/promise.js"
+    },
+    {
+      "node_modules": "npm/ecmascript-collections/node_modules",
+      "sourceMap": "packages/ecmascript-collections.js.map",
+      "path": "packages/ecmascript-collections.js"
+    },
+    {
+      "node_modules": "npm/ddp-server/node_modules",
+      "sourceMap": "packages/ddp-server.js.map",
+      "path": "packages/ddp-server.js"
+    },
+    {
+      "sourceMap": "packages/ddp.js.map",
+      "path": "packages/ddp.js"
+    },
+    {
+      "sourceMap": "packages/binary-heap.js.map",
+      "path": "packages/binary-heap.js"
+    },
+    {
+      "node_modules": "npm/mongo/node_modules",
+      "sourceMap": "packages/mongo.js.map",
+      "path": "packages/mongo.js"
+    },
+    {
+      "sourceMap": "packages/reactive-dict.js.map",
+      "path": "packages/reactive-dict.js"
+    },
+    {
+      "sourceMap": "packages/iron_controller.js.map",
+      "path": "packages/iron_controller.js"
+    },
+    {
+      "node_modules": "npm/iron_router/node_modules",
+      "sourceMap": "packages/iron_router.js.map",
+      "path": "packages/iron_router.js",
+      "assets": {
+        "lib/templates.html": "assets/packages/iron_router/lib/templates.html"
+      }
+    },
+    {
+      "sourceMap": "packages/less.js.map",
+      "path": "packages/less.js"
+    },
+    {
+      "sourceMap": "packages/raix_eventemitter.js.map",
+      "path": "packages/raix_eventemitter.js"
+    },
+    {
+      "sourceMap": "packages/meteorspark_util.js.map",
+      "path": "packages/meteorspark_util.js"
+    },
+    {
+      "sourceMap": "packages/cfs_http-methods.js.map",
+      "path": "packages/cfs_http-methods.js"
+    },
+    {
+      "sourceMap": "packages/tap_i18n.js.map",
+      "path": "packages/tap_i18n.js"
+    },
+    {
+      "sourceMap": "packages/francocatena_status.js.map",
+      "path": "packages/francocatena_status.js"
+    },
+    {
+      "sourceMap": "packages/mizzao_jquery-ui.js.map",
+      "path": "packages/mizzao_jquery-ui.js"
+    },
+    {
+      "sourceMap": "packages/mrt_external-file-loader.js.map",
+      "path": "packages/mrt_external-file-loader.js"
+    },
+    {
+      "node_modules": "npm/infinitedg_winston/node_modules",
+      "sourceMap": "packages/infinitedg_winston.js.map",
+      "path": "packages/infinitedg_winston.js"
+    },
+    {
+      "node_modules": "npm/brentjanderson_winston-client/node_modules",
+      "sourceMap": "packages/brentjanderson_winston-client.js.map",
+      "path": "packages/brentjanderson_winston-client.js"
+    },
+    {
+      "node_modules": "npm/duongthienduc_meteor-winston/node_modules",
+      "sourceMap": "packages/duongthienduc_meteor-winston.js.map",
+      "path": "packages/duongthienduc_meteor-winston.js"
+    },
+    {
+      "sourceMap": "packages/mizzao_timesync.js.map",
+      "path": "packages/mizzao_timesync.js"
+    },
+    {
+      "sourceMap": "packages/agnito_raphael.js.map",
+      "path": "packages/agnito_raphael.js"
+    },
+    {
+      "node_modules": "npm/clinical_nightwatch/node_modules",
+      "sourceMap": "packages/clinical_nightwatch.js.map",
+      "path": "packages/clinical_nightwatch.js",
+      "assets": {
+        "globals.json": "assets/packages/clinical_nightwatch/globals.json",
+        "launch_nightwatch_from_app_root.sh": "assets/packages/clinical_nightwatch/launch_nightwatch_from_app_root.sh",
+        "nightwatch_from_app_root.json": "assets/packages/clinical_nightwatch/nightwatch_from_app_root.json",
+        "nightwatch_from_velocity.json": "assets/packages/clinical_nightwatch/nightwatch_from_velocity.json",
+        "nightwatch_from_velocity_console.json": "assets/packages/clinical_nightwatch/nightwatch_from_velocity_console.json",
+        "selenium/chromedriver": "assets/packages/clinical_nightwatch/selenium/chromedriver",
+        "selenium/selenium-server-standalone-2.44.0.jar": "assets/packages/clinical_nightwatch/selenium/selenium-server-standalone-2.44.0.jar"
+      }
+    },
+    {
+      "sourceMap": "packages/reload.js.map",
+      "path": "packages/reload.js"
+    },
+    {
+      "sourceMap": "packages/practicalmeteor_chai.js.map",
+      "path": "packages/practicalmeteor_chai.js"
+    },
+    {
+      "sourceMap": "packages/practicalmeteor_loglevel.js.map",
+      "path": "packages/practicalmeteor_loglevel.js"
+    },
+    {
+      "node_modules": "npm/velocity_chokidar/node_modules",
+      "sourceMap": "packages/velocity_chokidar.js.map",
+      "path": "packages/velocity_chokidar.js"
+    },
+    {
+      "node_modules": "npm/velocity_meteor-internals/node_modules",
+      "sourceMap": "packages/velocity_meteor-internals.js.map",
+      "path": "packages/velocity_meteor-internals.js"
+    },
+    {
+      "node_modules": "npm/velocity_source-map-support/node_modules",
+      "sourceMap": "packages/velocity_source-map-support.js.map",
+      "path": "packages/velocity_source-map-support.js"
+    },
+    {
+      "node_modules": "npm/sanjo_long-running-child-process/node_modules",
+      "sourceMap": "packages/sanjo_long-running-child-process.js.map",
+      "path": "packages/sanjo_long-running-child-process.js",
+      "assets": {
+        "lib/spawnScript.js": "assets/packages/sanjo_long-running-child-process/lib/spawnScript.js"
+      }
+    },
+    {
+      "sourceMap": "packages/sanjo_meteor-version.js.map",
+      "path": "packages/sanjo_meteor-version.js"
+    },
+    {
+      "sourceMap": "packages/package-version-parser.js.map",
+      "path": "packages/package-version-parser.js"
+    },
+    {
+      "sourceMap": "packages/sanjo_meteor-files-helpers.js.map",
+      "path": "packages/sanjo_meteor-files-helpers.js"
+    },
+    {
+      "node_modules": "npm/velocity_core/node_modules",
+      "sourceMap": "packages/velocity_core.js.map",
+      "path": "packages/velocity_core.js"
+    },
+    {
+      "sourceMap": "packages/velocity_shim.js.map",
+      "path": "packages/velocity_shim.js"
+    },
+    {
+      "sourceMap": "packages/velocity_meteor-stubs.js.map",
+      "path": "packages/velocity_meteor-stubs.js",
+      "assets": {
+        "index.js": "assets/packages/velocity_meteor-stubs/index.js"
+      }
+    },
+    {
+      "node_modules": "npm/sanjo_karma/node_modules",
+      "sourceMap": "packages/sanjo_karma.js.map",
+      "path": "packages/sanjo_karma.js",
+      "assets": {
+        "karma_runner.js": "assets/packages/sanjo_karma/karma_runner.js"
+      }
+    },
+    {
+      "node_modules": "npm/sanjo_jasmine/node_modules",
+      "sourceMap": "packages/sanjo_jasmine.js.map",
+      "path": "packages/sanjo_jasmine.js",
+      "assets": {
+        "src/client/integration/sample-tests/sample/spec/PlayerSpec.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/PlayerSpec.js",
+        "src/client/integration/sample-tests/sample/spec/SpecMatchers.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/SpecMatchers.js",
+        "src/client/integration/sample-tests/sample/src/Player.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Player.js",
+        "src/client/integration/sample-tests/sample/src/Song.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Song.js",
+        "src/client/unit/sample-tests/sample/spec/PlayerSpec.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/PlayerSpec.js",
+        "src/client/unit/sample-tests/sample/spec/SpecMatchers.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/SpecMatchers.js",
+        "src/client/unit/sample-tests/sample/src/Player.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Player.js",
+        "src/client/unit/sample-tests/sample/src/Song.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Song.js",
+        "src/server/integration/sample-tests/sample/spec/PlayerSpec.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/PlayerSpec.js",
+        "src/server/integration/sample-tests/sample/spec/SpecMatchers.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/SpecMatchers.js",
+        "src/server/integration/sample-tests/sample/src/Player.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Player.js",
+        "src/server/integration/sample-tests/sample/src/Song.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Song.js",
+        "src/server/unit/sample-tests/sample/spec/PlayerSpec.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/PlayerSpec.js",
+        "src/server/unit/sample-tests/sample/spec/SpecMatchers.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/spec/SpecMatchers.js",
+        "src/server/unit/sample-tests/sample/src/Player.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Player.js",
+        "src/server/unit/sample-tests/sample/src/Song.js": "assets/packages/sanjo_jasmine/src/client/integration/sample-tests/sample/src/Song.js",
+        ".npm/package/node_modules/component-mocker/index.js": "assets/packages/sanjo_jasmine/.npm/package/node_modules/component-mocker/index.js",
+        "src/server/unit/package-stubs.js.tpl": "assets/packages/sanjo_jasmine/src/server/unit/package-stubs.js.tpl",
+        "src/server/unit/metadata-reader.js.tpl": "assets/packages/sanjo_jasmine/src/server/unit/metadata-reader.js.tpl",
+        "src/lib/mock.js": "assets/packages/sanjo_jasmine/src/lib/mock.js",
+        "src/server/lib/contextSpec.js": "assets/packages/sanjo_jasmine/src/server/lib/contextSpec.js",
+        "src/lib/VelocityTestReporter.js": "assets/packages/sanjo_jasmine/src/lib/VelocityTestReporter.js",
+        "src/client/unit/assets/context.html": "assets/packages/sanjo_jasmine/src/client/unit/assets/context.html",
+        "src/client/unit/assets/debug.html": "assets/packages/sanjo_jasmine/src/client/unit/assets/debug.html",
+        "src/client/unit/assets/__meteor_runtime_config__.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/__meteor_runtime_config__.js",
+        "src/client/unit/assets/adapter.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/adapter.js",
+        "src/client/unit/assets/jasmine-jquery.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/jasmine-jquery.js",
+        "src/client/unit/assets/mocks/packages/autoupdate.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/mocks/packages/autoupdate.js",
+        "src/client/unit/assets/mocks/packages/reload.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/mocks/packages/reload.js",
+        "src/client/unit/assets/mocks/packages/meteorhacks_fast-render.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/mocks/packages/meteorhacks_fast-render.js",
+        "src/client/unit/assets/helpers/iron_router.js": "assets/packages/sanjo_jasmine/src/client/unit/assets/helpers/iron_router.js"
+      }
+    },
+    {
+      "sourceMap": "packages/pagebakers_ionicons.js.map",
+      "path": "packages/pagebakers_ionicons.js"
+    },
+    {
+      "sourceMap": "packages/ewall_foundation.js.map",
+      "path": "packages/ewall_foundation.js"
+    },
+    {
+      "sourceMap": "packages/maibaum_foundation-icons.js.map",
+      "path": "packages/maibaum_foundation-icons.js"
+    },
+    {
+      "sourceMap": "packages/aldeed_template-extension.js.map",
+      "path": "packages/aldeed_template-extension.js"
+    },
+    {
+      "sourceMap": "packages/chriswessels_hammer.js.map",
+      "path": "packages/chriswessels_hammer.js"
+    },
+    {
+      "sourceMap": "packages/fastclick.js.map",
+      "path": "packages/fastclick.js"
+    },
+    {
+      "sourceMap": "packages/standard-minifiers.js.map",
+      "path": "packages/standard-minifiers.js"
+    },
+    {
+      "sourceMap": "packages/cfs_reactive-property.js.map",
+      "path": "packages/cfs_reactive-property.js"
+    },
+    {
+      "sourceMap": "packages/cfs_reactive-list.js.map",
+      "path": "packages/cfs_reactive-list.js"
+    },
+    {
+      "sourceMap": "packages/cfs_micro-queue.js.map",
+      "path": "packages/cfs_micro-queue.js"
+    },
+    {
+      "sourceMap": "packages/cfs_power-queue.js.map",
+      "path": "packages/cfs_power-queue.js"
+    },
+    {
+      "sourceMap": "packages/autoupdate.js.map",
+      "path": "packages/autoupdate.js"
+    },
+    {
+      "sourceMap": "packages/meteor-platform.js.map",
+      "path": "packages/meteor-platform.js"
+    },
+    {
+      "sourceMap": "packages/session.js.map",
+      "path": "packages/session.js"
+    },
+    {
+      "sourceMap": "packages/livedata.js.map",
+      "path": "packages/livedata.js"
+    },
+    {
+      "path": "packages/global-imports.js"
+    },
+    {
+      "sourceMap": "app/lib/environment.coffee.js.map",
+      "path": "app/lib/environment.coffee.js"
+    },
+    {
+      "sourceMap": "app/lib/router.coffee.js.map",
+      "path": "app/lib/router.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/chat.coffee.js.map",
+      "path": "app/server/collection_methods/chat.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/meetings.coffee.js.map",
+      "path": "app/server/collection_methods/meetings.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/poll.coffee.js.map",
+      "path": "app/server/collection_methods/poll.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/presentations.coffee.js.map",
+      "path": "app/server/collection_methods/presentations.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/shapes.coffee.js.map",
+      "path": "app/server/collection_methods/shapes.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/slides.coffee.js.map",
+      "path": "app/server/collection_methods/slides.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/collection_methods/users.coffee.js.map",
+      "path": "app/server/collection_methods/users.coffee.js"
+    },
+    {
+      "sourceMap": "app/collections/collections.coffee.js.map",
+      "path": "app/collections/collections.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/bbblogger.coffee.js.map",
+      "path": "app/server/bbblogger.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/publish.coffee.js.map",
+      "path": "app/server/publish.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/redispubsub.coffee.js.map",
+      "path": "app/server/redispubsub.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/server.coffee.js.map",
+      "path": "app/server/server.coffee.js"
+    },
+    {
+      "sourceMap": "app/server/user_permissions.coffee.js.map",
+      "path": "app/server/user_permissions.coffee.js"
+    },
+    {
+      "sourceMap": "app/config.coffee.js.map",
+      "path": "app/config.coffee.js"
+    }
+  ]
+}

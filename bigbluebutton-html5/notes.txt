@@ -1,0 +1,5 @@
+Messages publish fine to the Redis PubSub but the BBB apps aren't picking them up.
+
+Hide the users list from viewers on flash app
+
+Hide message button from users on phone until bug can be found
