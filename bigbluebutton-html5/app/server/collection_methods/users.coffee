@@ -3,7 +3,7 @@
 # All these method must first authenticate the user before it calls the private function counterpart below
 # which sends the request to bbbApps. If the method is modifying the media the current user is sharing,
 # you should perform the request before sending the request to bbbApps. This allows the user request to be performed
-# immediately, since they do not require permission for things such as muting themsevles. 
+# immediately, since they do not require permission for things such as muting themsevles.
 # --------------------------------------------------------------------------------------------
 Meteor.methods
   # meetingId: the meetingId of the meeting the user[s] is in
@@ -42,7 +42,35 @@ Meteor.methods
       updateVoiceUser meetingId, {'web_userid': toMuteUserId, talking:false, muted:mutedBoolean}
     return
 
-  # meetingId: the meetingId which both users are in 
+# Meteor.publish "virtual_collection", ->
+#     this.added("virtual_coll", "some_id_of_doc", {key: "value"})
+#     # When done
+#     this.ready()
+
+# @alertReloadAudio(meeti) = ->
+  # #if the current tab is not the same as the tab we just published in
+  # # u = Meteor.Users.findOne({userId:user.userid, meetingId: meetingId})
+  # Meteor.Users.findOne({userId:user.userid, meetingId: meetingId}).observe({
+  #   added: (chatMessage) =>
+  #     findDestinationTab = ->
+  #       if chatMessage.message?.chat_type is "PUBLIC_CHAT"
+  #         "PUBLIC_CHAT"
+  #       else
+  #         chatMessage.message?.from_userid
+  #     Tracker.autorun (comp) ->
+  #       tabsTime = getInSession('tabsRenderedTime')
+  #       if tabsTime? and chatMessage.message.from_userid isnt "SYSTEM_MESSAGE" and chatMessage.message.from_time - tabsTime > 0
+  #         populateChatTabs(chatMessage) # check if we need to open a new tab
+  #         destinationTab = findDestinationTab()
+  #         if destinationTab isnt getInSession "inChatWith"
+  #           setInSession 'chatTabs', getInSession('chatTabs').map((tab) ->
+  #             tab.gotMail = true if tab.userId is destinationTab
+  #             tab
+  #           )
+  #       comp.stop()
+  #   })
+
+  # meetingId: the meetingId which both users are in
   # toLowerUserId: the userid of the user to have their hand lowered
   # loweredByUserId: userId of person lowering
   # loweredByToken: the authToken of the requestor
@@ -69,7 +97,13 @@ Meteor.methods
       publish Meteor.config.redis.channels.toBBBApps.users, message
     return
 
-  # meetingId: the meetingId which both users are in 
+  userUpdateWantsAudioStatus: (userId, status) ->
+      Meteor.Users.update({userId: userId},{$set: {wants_audio: status}})
+
+  userNeedsAudioReloaded: (meetingId, status) ->
+    Meteor.Meetings.update({meetingId: meetingId},{$set: {reloadAudio: status}})
+
+  # meetingId: the meetingId which both users are in
   # toRaiseUserId: the userid of the user to have their hand lowered
   # raisedByUserId: userId of person lowering
   # raisedByToken: the authToken of the requestor
@@ -164,6 +198,7 @@ Meteor.methods
   if u?
     Meteor.log.info "UPDATING USER #{user.userid}, authToken=#{u.authToken}"
     Meteor.Users.update({userId:user.userid, meetingId: meetingId}, {$set:{
+      wants_audio: wants_audio?0
       user:
         userid: user.userid
         presenter: user.presenter
@@ -222,6 +257,7 @@ Meteor.methods
     entry =
       meetingId: meetingId
       userId: userId
+      wants_audio: wants_audio?0
       user:
         userid: user.userid
         presenter: user.presenter

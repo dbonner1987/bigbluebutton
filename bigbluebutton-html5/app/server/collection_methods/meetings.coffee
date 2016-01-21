@@ -5,11 +5,15 @@
 	#check if the meeting is already in the collection
 	unless Meteor.Meetings.findOne({meetingId: meetingId})?
 		currentlyBeingRecorded = false # defaut value
+		reloadAudio = 0
+		voiceRecordingActive = 0
 		id = Meteor.Meetings.insert(
 			meetingId: meetingId,
 			meetingName: name,
 			intendedForRecording: intendedForRecording,
 			currentlyBeingRecorded: currentlyBeingRecorded,
+			reloadAudio: reloadAudio,
+			voiceRecordingActive: voiceRecordingActive
 			voiceConf: voiceConf,
 			duration: duration)
 		Meteor.log.info "added meeting _id=[#{id}]:meetingId=[#{meetingId}]:name=[#{name}]:duration=[#{duration}]:voiceConf=[#{voiceConf}]."

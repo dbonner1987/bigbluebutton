@@ -74,6 +74,14 @@ class Meteor.RedisPubSub
 
       # handle voice events
       if message.header.name in ['user_left_voice_message', 'user_joined_voice_message', 'user_voice_talking_message', 'user_voice_muted_message']
+        if message.header.name is "user_voice_talking_message"
+          # userId = message.payload.userid
+          meetingId = message.payload.meeting_id
+          if meetingId?
+            Meteor.log.info "Logging sound"
+            if Meteor.Meetings.findOne({meetingId: meetingId})?.voiceRecordingActive is 0
+              Meteor.Meetings.update({meetingId: meetingId},{$set: {voiceRecordingActive: 1}})
+
         voiceUser = message.payload.user?.voiceUser
         updateVoiceUser meetingId, voiceUser
         return
@@ -260,6 +268,22 @@ class Meteor.RedisPubSub
         if userId? and meetingId?
           last_raised = new Date()
           Meteor.Users.update({"user.userid": userId},{$set: {"user.raise_hand": last_raised}})
+        return
+
+      if message.header.name is "voice_recording_started_message"
+        # userId = message.payload.userid
+        meetingId = message.payload.meeting_id
+        if meetingId?
+          # Session.set("reloadAudio", 1)
+          Meteor.Meetings.update({meetingId: meetingId},{$set: {voiceRecordingActive: 1}})
+        return
+
+      if message.header.name is "voice_recording_stopped_message"
+        # userId = message.payload.userid
+        meetingId = message.payload.meeting_id
+        if meetingId?
+          # Session.set("reloadAudio", 1)
+          Meteor.Meetings.update({meetingId: meetingId},{$set: {reloadAudio: 1, voiceRecordingActive: 0}})
         return
 
       if message.header.name is "user_lowered_hand_message"

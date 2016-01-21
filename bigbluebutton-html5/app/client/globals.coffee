@@ -91,6 +91,9 @@ Handlebars.registerHelper "getShapesForSlide", ->
   # try to reuse the lines above
   Meteor.Shapes.find({whiteboardId: currentSlide?.slide?.id})
 
+Handlebars.registerHelper "reloadAudioPlayer", ->
+  console.log(Meteor.Users.findOne({meetingId: getInSession "meetingId", userId: getInSession "userId"}).user)
+
 # retrieves all users in the meeting
 Handlebars.registerHelper "getUsersInMeeting", ->
   # retrieve all users with raised hands
@@ -155,6 +158,38 @@ Handlebars.registerHelper 'isMobileChromeOrFirefox', () ->
 
 Handlebars.registerHelper "meetingIsRecording", ->
   Meteor.Meetings.findOne()?.recorded # Should only ever have one meeting, so we dont need any filter and can trust result #1
+
+Handlebars.registerHelper "reloadAudioPlayer", () ->
+  meeting = Meteor.Meetings.findOne()
+  if meeting
+    wantsAudio = Meteor.Users.findOne({userId: getInSession 'userId'})?.wants_audio
+
+    if meeting.voiceRecordingActive is 1
+      console.log('voiceRecordingActive: 1 | reloadAudio: '+meeting.reloadAudio+' | userWantsAudio: '+wantsAudio)
+
+      # The user wants audio
+      if Meteor.Users.findOne({userId: getInSession 'userId'})?.wants_audio is 1
+        if meeting.reloadAudio is 1
+          confId = Meteor.Meetings.findOne()?.voiceConf or null
+          # We need to give the stream time to sync through to icecast
+          setTimeout (->
+            appendMediaPlayerForAudio(confId)
+            return
+          ), 3000
+          Meteor.call('userNeedsAudioReloaded', getInSession("meetingId"), 0)
+
+    else
+      console.log('voiceRecordingActive: 0 | reloadAudio: '+meeting.reloadAudio+' | userWantsAudio: '+wantsAudio)
+
+      # If the user wants audio (they have had it playing) then we need to remove the player
+      # so as it can be re appened upon the voiceRecordingActive becoming true again
+      if Meteor.Users.findOne({userId: getInSession 'userId'})?.wants_audio is 1
+        $('#audio-player').remove()
+  else
+    console.log('Meeting and/user not set')
+    console.log('Meeting: '+typeof meeting)
+    console.log('User: '+typeof Meteor.Users.findOne({userId: getInSession 'userId'}))
+
 
 Handlebars.registerHelper "messageFontSize", ->
   style: "font-size: #{getInSession("messageFontSize")}px;"
@@ -225,6 +260,12 @@ Handlebars.registerHelper "visibility", (section) ->
 @toggleCam = (event) ->
   # Meteor.Users.update {_id: context._id} , {$set:{"user.sharingVideo": !context.sharingVideo}}
   # Meteor.call('userToggleCam', context._id, !context.sharingVideo)
+
+@appendMediaPlayerForAudio = (confId) ->
+  $('body').append('<audio id="audio-player" class="hide" style="display:none;" width="100%" controls autoplay preload="metadata">'+
+    '<source src="//'+window.location.host+':8000/conference-'+confId+'-live.mp3" data-plugin-type="flash" type="audio/mp3" />'+
+  # '<source src="http://stream.dubstep.fm/;stream/1" data-plugin-type="native" type="application/vnd.apple.mpegURL" />'+
+  '</audio>')
 
 @toggleChatbar = ->
   if getInSession("display_chatbar") and isOnlyOnePanelOpen()

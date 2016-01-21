@@ -1,7 +1,7 @@
 <template name="usersList">
 	<div id="{{id}}" {{visibility name}} class="component hide">
 		<h3 class="title gradientBar"><span class="glyphicon glyphicon-user"></span> Participants: {{getMeetingSize}} User(s)</h3>
-
+{{reloadAudioPlayer}}
 		<div id="user-contents">
 			<div class="userlist ScrollableWindowY">
 				{{#each getUsersInMeeting}}
