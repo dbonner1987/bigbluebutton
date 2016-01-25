@@ -11,7 +11,7 @@ body {
   right: 0;
   @media @landscape {
     height: 100%;
-    min-width: 768px;
+    min-width: 100%; //768px;
     position: absolute;
     top: 0;
   }
@@ -300,11 +300,12 @@ body {
   padding-bottom: 5px;
   padding-left: 10px;
   padding-top: 5px;
+  font-size: 14px;
   @media @desktop-portrait, @landscape {
     font-size: 14px;
   }
   @media @mobile-portrait, @mobile-portrait-with-keyboard {
-    font-size: 4vw;
+    // font-size: 4vw;
   }
 }
 

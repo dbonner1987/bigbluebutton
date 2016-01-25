@@ -184,6 +184,7 @@ Handlebars.registerHelper "reloadAudioPlayer", () ->
       # If the user wants audio (they have had it playing) then we need to remove the player
       # so as it can be re appened upon the voiceRecordingActive becoming true again
       if Meteor.Users.findOne({userId: getInSession 'userId'})?.wants_audio is 1
+        $('#audio-on-msg').remove()
         $('#audio-player').remove()
   else
     console.log('Meeting and/user not set')
@@ -262,10 +263,13 @@ Handlebars.registerHelper "visibility", (section) ->
   # Meteor.call('userToggleCam', context._id, !context.sharingVideo)
 
 @appendMediaPlayerForAudio = (confId) ->
-  $('body').append('<audio id="audio-player" class="hide" style="display:none;" width="100%" controls autoplay preload="metadata">'+
+  $('body').append('<audio id="audio-player" class="ide" style="display:non;" width="100%" preload="metadata">'+
     '<source src="//'+window.location.host+':8000/conference-'+confId+'-live.mp3" data-plugin-type="flash" type="audio/mp3" />'+
   # '<source src="http://stream.dubstep.fm/;stream/1" data-plugin-type="native" type="application/vnd.apple.mpegURL" />'+
   '</audio>')
+  audioEl = document.getElementById('audio-player');
+  audioEl.play();
+  $('#footer').append('<span id="audio-on-msg">Audio live</span>')
 
 @toggleChatbar = ->
   if getInSession("display_chatbar") and isOnlyOnePanelOpen()

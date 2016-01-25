@@ -135,6 +135,7 @@ Template.header.events
           console.log('User does not want audio')
           $('.joinAudioButton').attr('title', 'Join Audio Call').attr('data-original-title', 'Join Audio Call')
           $('#audio-player').remove()
+          $('#audio-on-msg').remove()
           Meteor.call('userUpdateWantsAudioStatus', getInSession("userId"), 0)
           Meteor.call('userNeedsAudioReloaded', getInSession("meetingId"), 0)
         else
