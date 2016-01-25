@@ -57,11 +57,17 @@
     height: calc(~'100% - 121px');
   }
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   padding-left: 0px;
   padding-right: 0px;
   @media @desktop-portrait, @mobile-portrait {
     max-height: 285px; //46vw; // for longer chatbody a scrollbar appears
     overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  > .chat {
+    height: calc(~'100% + 2px');
   }
 }
 
