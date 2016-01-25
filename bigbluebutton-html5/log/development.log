@@ -30727,3 +30727,644 @@
 {"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:47.246Z"}
 {"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:48:50.385Z"}
 {"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:50.386Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:48:52.616Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:52.616Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:48:53.100Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:53.101Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:48:53.898Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:53.898Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:48:58.098Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:58.099Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:48:59.600Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:48:59.600Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:00.047Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:00.047Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:10.716Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:10.717Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:13.668Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:13.668Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:15.126Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:15.126Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:16.829Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:16.830Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:17.840Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:17.840Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:17.924Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:17.924Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:18.966Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:18.967Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:20.433Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:20.434Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:21.533Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:21.534Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:21.617Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:21.617Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:22.965Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:22.966Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:25.401Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:25.403Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:28.769Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:28.770Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:28.830Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:28.830Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:29.688Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:29.689Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:32.957Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:32.957Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:35.187Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:35.188Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:35.230Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:35.231Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:37.527Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:37.528Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:37.548Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:37.549Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:40.939Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:40.939Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:41.044Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:41.045Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:45.252Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:45.252Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:45.603Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:45.603Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:46.664Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:46.664Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:49.386Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:49.387Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:49:50.375Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:49:50.375Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:00.271Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:00.271Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:01.215Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:01.215Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:42.589Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:42.589Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:44.224Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:44.224Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:46.306Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:46.306Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:47.875Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:47.875Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:48.287Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:48.288Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:49.601Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:49.601Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:50.255Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:50.255Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:51.304Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:51.304Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:51.670Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:51.670Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:53.531Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:53.531Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:53.878Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:53.878Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:54.986Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:54.986Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:55.007Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:55.008Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:57.187Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:57.188Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:51:58.183Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:51:58.184Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:02.105Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:02.107Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:09.978Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:09.979Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:10.976Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:10.977Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:14.311Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:14.311Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:15.109Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:15.110Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:19.125Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:19.127Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:27.606Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:27.606Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:27.657Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:27.658Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:29.472Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:29.472Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:31.341Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:31.341Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:32.217Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:32.218Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:32.295Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:32.296Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:52:51.821Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:52:51.822Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:53:53.094Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:53:53.095Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:53:54.493Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:53:54.493Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:53:54.742Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:53:54.742Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:53:56.808Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:53:56.811Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:00.307Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:00.308Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:01.250Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:01.251Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:03.273Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:03.273Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:04.172Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:04.172Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:05.659Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:05.660Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:06.517Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:06.517Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:11.736Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:11.737Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:12.699Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:12.700Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:16.248Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:16.248Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:17.076Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:17.077Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:28.995Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:28.996Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:30.127Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:30.128Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:33.821Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:33.821Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:34.675Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:34.675Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:36.252Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:36.252Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:37.381Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:37.382Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:37.532Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:37.533Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:39.949Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:39.950Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:40.872Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:40.874Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:41.918Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:41.918Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:42.165Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:42.165Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:43.131Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:43.131Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:43.703Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:43.703Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:44.787Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:44.788Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:46.491Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:46.491Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:54:50.926Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:54:50.926Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:55:04.133Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:55:04.134Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:55:06.226Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:55:06.226Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:55:55.661Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:55:55.662Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:55:57.133Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:55:57.134Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:00.185Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:00.185Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:01.086Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:01.086Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:08.971Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:08.971Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:12.437Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:12.438Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:13.567Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:13.567Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:16.125Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:16.132Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:16.226Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:16.226Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:19.457Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:19.457Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:22.524Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:22.524Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:23.553Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:23.554Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:24.978Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:24.978Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:26.264Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:26.264Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:34.356Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:34.357Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:36.482Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:36.485Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:36.932Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:36.933Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:37.751Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:37.751Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:41.946Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:41.947Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:42.825Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:42.826Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:43.476Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:43.476Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:45.239Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:45.239Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:45.341Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:45.341Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:48.434Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:48.434Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:54.277Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:54.279Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:57.419Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:57.420Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:56:58.754Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:56:58.755Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:00.612Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:00.613Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:01.898Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:01.899Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:04.679Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:04.680Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:10.697Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:10.697Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:12.242Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:12.242Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:35.630Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:35.630Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:37.485Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:37.486Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:38.749Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:38.750Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:39.990Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:39.991Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:41.109Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:41.110Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:42.028Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:42.029Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:45.399Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:45.399Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:48.022Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:48.022Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:50.061Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:50.062Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:51.147Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:51.147Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:51.380Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:51.386Z"}
+{"level":"info","message":"\na user lost connection: session.id=K8RMoP7N3ZXEtG4A9 userId = 5xg7iwtiwbko, username=html5, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:57:51.573Z"}
+{"level":"info","message":"username of the user losing connection: html5, connection_status: becomes offline","timestamp":"2016-01-25T14:57:51.575Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590:5xg7iwtiwbko","timestamp":"2016-01-25T14:57:51.577Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"Publishing","level":"info","timestamp":"2016-01-25T14:57:51.577Z"}
+{"message":"eventType=  user_left_message  ","level":"info","timestamp":"2016-01-25T14:57:51.585Z"}
+{"level":"info","message":"marking user [5xg7iwtiwbko] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590]","timestamp":"2016-01-25T14:57:51.585Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:52.341Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:52.342Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:52.504Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:52.504Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T14:57:53.028Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 5xg7iwtiwbko mvs23csmitad","timestamp":"2016-01-25T14:57:53.030Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:53.396Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:53.396Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:57:53.478Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:57:53.509Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:57:53.531Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590, 5xg7iwtiwbko, mvs23csmitad","timestamp":"2016-01-25T14:57:53.544Z"}
+{"level":"info","message":"found it from the first time 5xg7iwtiwbko","timestamp":"2016-01-25T14:57:53.546Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T14:57:53.547Z"}
+{"level":"info","message":"5xg7iwtiwbko was allowed to subscribe to 'users'","timestamp":"2016-01-25T14:57:53.549Z"}
+{"userid":"5xg7iwtiwbko","authToken":"mvs23csmitad","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-25T14:57:53.549Z"}
+{"level":"info","message":"html5 user userid:[5xg7iwtiwbko] from [183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590] tried to revalidate token","timestamp":"2016-01-25T14:57:53.551Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"Publishing","level":"info","timestamp":"2016-01-25T14:57:53.551Z"}
+{"level":"info","message":"username of the subscriber: html5, connection_status becomes online","timestamp":"2016-01-25T14:57:53.555Z"}
+{"message":"eventType=  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-25T14:57:53.567Z"}
+{"message":"eventType=  get_users_reply  ","level":"info","timestamp":"2016-01-25T14:57:53.568Z"}
+{"message":"eventType=  user_joined_message  ","level":"info","timestamp":"2016-01-25T14:57:53.568Z"}
+{"message":"eventType=  get_chat_history_reply  ","level":"info","timestamp":"2016-01-25T14:57:53.591Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-25T14:57:53.596Z"}
+{"message":"eventType=  get_presentation_info_reply  ","level":"info","timestamp":"2016-01-25T14:57:53.614Z"}
+{"level":"info","message":"UPDATING USER 5xg7iwtiwbko, authToken=mvs23csmitad","timestamp":"2016-01-25T14:57:53.618Z"}
+{"level":"info","message":"user.validated for user 5xg7iwtiwbko in meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 just became true","timestamp":"2016-01-25T14:57:53.675Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:56.254Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:56.254Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:57.139Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:57.140Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:57.492Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:57.493Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:57:58.464Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:57:58.464Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:00.602Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:00.603Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:01.447Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:01.447Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:03.616Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:03.617Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:04.514Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:04.515Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:11.134Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:11.134Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:11.999Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:12.000Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:19.775Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:19.775Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:20.719Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:20.719Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:22.694Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:22.695Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:23.684Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:23.685Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:23.870Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:23.871Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:24.776Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:24.776Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:25.636Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:25.637Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:26.473Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:26.473Z"}
+{"level":"info","message":"\na user lost connection: session.id=YmJwvBeFWL98c2kJ8 userId = 5xg7iwtiwbko, username=html5, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:58:28.048Z"}
+{"level":"info","message":"username of the user losing connection: html5, connection_status: becomes offline","timestamp":"2016-01-25T14:58:28.053Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590:5xg7iwtiwbko","timestamp":"2016-01-25T14:58:28.056Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"Publishing","level":"info","timestamp":"2016-01-25T14:58:28.056Z"}
+{"message":"eventType=  user_left_message  ","level":"info","timestamp":"2016-01-25T14:58:28.059Z"}
+{"level":"info","message":"marking user [5xg7iwtiwbko] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590]","timestamp":"2016-01-25T14:58:28.059Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T14:58:29.249Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 5xg7iwtiwbko mvs23csmitad","timestamp":"2016-01-25T14:58:29.250Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:58:29.552Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:58:29.574Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:58:29.596Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590, 5xg7iwtiwbko, mvs23csmitad","timestamp":"2016-01-25T14:58:29.605Z"}
+{"level":"info","message":"found it from the first time 5xg7iwtiwbko","timestamp":"2016-01-25T14:58:29.610Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T14:58:29.611Z"}
+{"level":"info","message":"5xg7iwtiwbko was allowed to subscribe to 'users'","timestamp":"2016-01-25T14:58:29.614Z"}
+{"userid":"5xg7iwtiwbko","authToken":"mvs23csmitad","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-25T14:58:29.614Z"}
+{"level":"info","message":"html5 user userid:[5xg7iwtiwbko] from [183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590] tried to revalidate token","timestamp":"2016-01-25T14:58:29.636Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"Publishing","level":"info","timestamp":"2016-01-25T14:58:29.636Z"}
+{"level":"info","message":"username of the subscriber: html5, connection_status becomes online","timestamp":"2016-01-25T14:58:29.648Z"}
+{"message":"eventType=  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-25T14:58:29.653Z"}
+{"message":"eventType=  get_users_reply  ","level":"info","timestamp":"2016-01-25T14:58:29.668Z"}
+{"message":"eventType=  user_joined_message  ","level":"info","timestamp":"2016-01-25T14:58:29.675Z"}
+{"message":"eventType=  get_chat_history_reply  ","level":"info","timestamp":"2016-01-25T14:58:29.677Z"}
+{"message":"eventType=  get_presentation_info_reply  ","level":"info","timestamp":"2016-01-25T14:58:29.677Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-25T14:58:29.689Z"}
+{"level":"info","message":"UPDATING USER 5xg7iwtiwbko, authToken=mvs23csmitad","timestamp":"2016-01-25T14:58:29.703Z"}
+{"level":"info","message":"user.validated for user 5xg7iwtiwbko in meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 just became true","timestamp":"2016-01-25T14:58:29.710Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:41.449Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:41.449Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:42.283Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:42.284Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:46.813Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:46.813Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:47.715Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:47.718Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:47.778Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:47.778Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:48.775Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:48.776Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:49.655Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:49.656Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:50.600Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:50.600Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:52.058Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:52.058Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:52.923Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:52.923Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:53.692Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:53.692Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:58:55.504Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:58:55.504Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:59:05.247Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:59:05.248Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:59:06.075Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:59:06.075Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:59:07.626Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:59:07.626Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T14:59:08.432Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T14:59:08.432Z"}
+{"level":"info","message":"\na user lost connection: session.id=rAXvRnSA4boST52MZ userId = 5xg7iwtiwbko, username=html5, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:59:08.603Z"}
+{"level":"info","message":"username of the user losing connection: html5, connection_status: becomes offline","timestamp":"2016-01-25T14:59:08.607Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590:5xg7iwtiwbko","timestamp":"2016-01-25T14:59:08.610Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"Publishing","level":"info","timestamp":"2016-01-25T14:59:08.612Z"}
+{"message":"eventType=  user_left_message  ","level":"info","timestamp":"2016-01-25T14:59:08.617Z"}
+{"level":"info","message":"marking user [5xg7iwtiwbko] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590]","timestamp":"2016-01-25T14:59:08.617Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T14:59:09.764Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 5xg7iwtiwbko mvs23csmitad","timestamp":"2016-01-25T14:59:09.765Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:59:10.123Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:59:10.136Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T14:59:10.150Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590, 5xg7iwtiwbko, mvs23csmitad","timestamp":"2016-01-25T14:59:10.167Z"}
+{"level":"info","message":"found it from the first time 5xg7iwtiwbko","timestamp":"2016-01-25T14:59:10.170Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T14:59:10.172Z"}
+{"level":"info","message":"5xg7iwtiwbko was allowed to subscribe to 'users'","timestamp":"2016-01-25T14:59:10.173Z"}
+{"userid":"5xg7iwtiwbko","authToken":"mvs23csmitad","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-25T14:59:10.174Z"}
+{"level":"info","message":"html5 user userid:[5xg7iwtiwbko] from [183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590] tried to revalidate token","timestamp":"2016-01-25T14:59:10.176Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"Publishing","level":"info","timestamp":"2016-01-25T14:59:10.177Z"}
+{"message":"eventType=  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-25T14:59:10.193Z"}
+{"message":"eventType=  get_users_reply  ","level":"info","timestamp":"2016-01-25T14:59:10.197Z"}
+{"message":"eventType=  user_joined_message  ","level":"info","timestamp":"2016-01-25T14:59:10.197Z"}
+{"message":"eventType=  get_chat_history_reply  ","level":"info","timestamp":"2016-01-25T14:59:10.199Z"}
+{"level":"info","message":"username of the subscriber: html5, connection_status becomes online","timestamp":"2016-01-25T14:59:10.200Z"}
+{"message":"eventType=  get_presentation_info_reply  ","level":"info","timestamp":"2016-01-25T14:59:10.207Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-25T14:59:10.210Z"}
+{"level":"info","message":"UPDATING USER 5xg7iwtiwbko, authToken=mvs23csmitad","timestamp":"2016-01-25T14:59:10.221Z"}
+{"level":"info","message":"user.validated for user 5xg7iwtiwbko in meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 just became true","timestamp":"2016-01-25T14:59:10.236Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:00:01.117Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:00:01.118Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:00:02.602Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:00:02.603Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:00:30.044Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:00:30.045Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:00:30.864Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:00:30.864Z"}
+{"level":"info","message":"\na user lost connection: session.id=HtFK4FWZ6BQKgK8QL userId = 5xg7iwtiwbko, username=html5, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:00:38.061Z"}
+{"level":"info","message":"username of the user losing connection: html5, connection_status: becomes offline","timestamp":"2016-01-25T15:00:38.067Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590:5xg7iwtiwbko","timestamp":"2016-01-25T15:00:38.070Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"Publishing","level":"info","timestamp":"2016-01-25T15:00:38.071Z"}
+{"message":"eventType=  user_left_message  ","level":"info","timestamp":"2016-01-25T15:00:38.074Z"}
+{"level":"info","message":"marking user [5xg7iwtiwbko] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590]","timestamp":"2016-01-25T15:00:38.076Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:00:39.143Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 5xg7iwtiwbko mvs23csmitad","timestamp":"2016-01-25T15:00:39.145Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:00:39.457Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:00:39.468Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:00:39.476Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590, 5xg7iwtiwbko, mvs23csmitad","timestamp":"2016-01-25T15:00:39.484Z"}
+{"level":"info","message":"found it from the first time 5xg7iwtiwbko","timestamp":"2016-01-25T15:00:39.486Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:00:39.488Z"}
+{"level":"info","message":"5xg7iwtiwbko was allowed to subscribe to 'users'","timestamp":"2016-01-25T15:00:39.490Z"}
+{"userid":"5xg7iwtiwbko","authToken":"mvs23csmitad","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-25T15:00:39.490Z"}
+{"level":"info","message":"html5 user userid:[5xg7iwtiwbko] from [183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590] tried to revalidate token","timestamp":"2016-01-25T15:00:39.493Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"Publishing","level":"info","timestamp":"2016-01-25T15:00:39.493Z"}
+{"level":"info","message":"username of the subscriber: html5, connection_status becomes online","timestamp":"2016-01-25T15:00:39.502Z"}
+{"message":"eventType=  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-25T15:00:39.541Z"}
+{"message":"eventType=  get_users_reply  ","level":"info","timestamp":"2016-01-25T15:00:39.546Z"}
+{"message":"eventType=  user_joined_message  ","level":"info","timestamp":"2016-01-25T15:00:39.547Z"}
+{"message":"eventType=  get_chat_history_reply  ","level":"info","timestamp":"2016-01-25T15:00:39.552Z"}
+{"message":"eventType=  get_presentation_info_reply  ","level":"info","timestamp":"2016-01-25T15:00:39.553Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-25T15:00:39.577Z"}
+{"level":"info","message":"UPDATING USER 5xg7iwtiwbko, authToken=mvs23csmitad","timestamp":"2016-01-25T15:00:39.579Z"}
+{"level":"info","message":"user.validated for user 5xg7iwtiwbko in meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 just became true","timestamp":"2016-01-25T15:00:39.587Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:00:56.642Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:00:56.643Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:00:57.860Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:00:57.860Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:10.791Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:10.791Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:11.590Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:11.590Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:17.704Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:17.705Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:20.507Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:20.508Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:22.668Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:22.668Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:23.755Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:23.755Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:27.292Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:27.292Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:28.434Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:28.435Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:28.834Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:28.835Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:29.774Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:29.775Z"}
+{"level":"info","message":"\na user lost connection: session.id=DvQiQeCDAgpevgNZH userId = 5xg7iwtiwbko, username=html5, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:01:35.431Z"}
+{"level":"info","message":"username of the user losing connection: html5, connection_status: becomes offline","timestamp":"2016-01-25T15:01:35.434Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590:5xg7iwtiwbko","timestamp":"2016-01-25T15:01:35.437Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"Publishing","level":"info","timestamp":"2016-01-25T15:01:35.437Z"}
+{"message":"eventType=  user_left_message  ","level":"info","timestamp":"2016-01-25T15:01:35.441Z"}
+{"level":"info","message":"marking user [5xg7iwtiwbko] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590]","timestamp":"2016-01-25T15:01:35.441Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:36.377Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:36.378Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:01:36.600Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 5xg7iwtiwbko mvs23csmitad","timestamp":"2016-01-25T15:01:36.602Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:01:36.888Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:01:37.008Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:01:37.017Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590, 5xg7iwtiwbko, mvs23csmitad","timestamp":"2016-01-25T15:01:37.028Z"}
+{"level":"info","message":"found it from the first time 5xg7iwtiwbko","timestamp":"2016-01-25T15:01:37.031Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:01:37.034Z"}
+{"level":"info","message":"5xg7iwtiwbko was allowed to subscribe to 'users'","timestamp":"2016-01-25T15:01:37.037Z"}
+{"userid":"5xg7iwtiwbko","authToken":"mvs23csmitad","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-25T15:01:37.040Z"}
+{"level":"info","message":"html5 user userid:[5xg7iwtiwbko] from [183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590] tried to revalidate token","timestamp":"2016-01-25T15:01:37.042Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"Publishing","level":"info","timestamp":"2016-01-25T15:01:37.042Z"}
+{"message":"eventType=  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-25T15:01:37.064Z"}
+{"message":"eventType=  get_users_reply  ","level":"info","timestamp":"2016-01-25T15:01:37.068Z"}
+{"message":"eventType=  user_joined_message  ","level":"info","timestamp":"2016-01-25T15:01:37.075Z"}
+{"level":"info","message":"username of the subscriber: html5, connection_status becomes online","timestamp":"2016-01-25T15:01:37.079Z"}
+{"message":"eventType=  get_chat_history_reply  ","level":"info","timestamp":"2016-01-25T15:01:37.099Z"}
+{"message":"eventType=  get_presentation_info_reply  ","level":"info","timestamp":"2016-01-25T15:01:37.100Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-25T15:01:37.105Z"}
+{"level":"info","message":"UPDATING USER 5xg7iwtiwbko, authToken=mvs23csmitad","timestamp":"2016-01-25T15:01:37.113Z"}
+{"level":"info","message":"user.validated for user 5xg7iwtiwbko in meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 just became true","timestamp":"2016-01-25T15:01:37.118Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:37.178Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:37.179Z"}
+{"level":"info","message":"in isAllowedTo: action-chatPublic, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:01:53.722Z"}
+{"level":"info","message":"publishing chat to redis","timestamp":"2016-01-25T15:01:53.725Z"}
+{"channel":"bigbluebutton:to-bbb-apps:chat","message":"Publishing","level":"info","timestamp":"2016-01-25T15:01:53.727Z"}
+{"message":"eventType=  send_public_chat_message  ","level":"info","timestamp":"2016-01-25T15:01:53.738Z"}
+{"level":"info","message":"added chat id=[EPJP9QD9sRkwPWE87]:sdasd.","timestamp":"2016-01-25T15:01:53.740Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:54.533Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:54.533Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:01:55.486Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:01:55.486Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:07.667Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:07.668Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:08.472Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:08.473Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:26.093Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:26.093Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:27.176Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:27.176Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:27.522Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:27.522Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:28.585Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:28.586Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:36.847Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:36.847Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:37.692Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:37.692Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:44.228Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:44.228Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:45.030Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:45.030Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:46.890Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:46.892Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:47.789Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:47.789Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:48.639Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:48.640Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:49.466Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:49.467Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:55.941Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:55.942Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:56.888Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:56.888Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:56.950Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:56.951Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:02:58.876Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:02:58.876Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:01.618Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:01.620Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:02.721Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:02.722Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:03.379Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:03.379Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:05.885Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:05.885Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:20.394Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:20.394Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:24.086Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:24.086Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:24.784Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:24.784Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:25.648Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:25.649Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:26.418Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:26.418Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:27.247Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:27.248Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:28.888Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:28.888Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:30.360Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:30.360Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:32.922Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:32.922Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:33.841Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:33.842Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:42.676Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:42.679Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:44.589Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:44.589Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:48.875Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:48.875Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:49.897Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:49.897Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:54.790Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:54.791Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:57.346Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:57.346Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:03:57.823Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:03:57.823Z"}
+{"level":"info","message":"\na user lost connection: session.id=oQe7574Rp6AWXz6XY userId = 5xg7iwtiwbko, username=html5, meeting=183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:03:59.487Z"}
+{"level":"info","message":"username of the user losing connection: html5, connection_status: becomes offline","timestamp":"2016-01-25T15:03:59.492Z"}
+{"level":"info","message":"sending a user_leaving_request for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590:5xg7iwtiwbko","timestamp":"2016-01-25T15:03:59.495Z"}
+{"channel":"bigbluebutton:to-bbb-apps:users","message":"Publishing","level":"info","timestamp":"2016-01-25T15:03:59.496Z"}
+{"message":"eventType=  user_left_message  ","level":"info","timestamp":"2016-01-25T15:03:59.499Z"}
+{"level":"info","message":"marking user [5xg7iwtiwbko] as offline in meeting[183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590]","timestamp":"2016-01-25T15:03:59.501Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:04:00.381Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:04:00.382Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeChat, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:04:00.598Z"}
+{"level":"info","message":"publishing chat for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 5xg7iwtiwbko mvs23csmitad","timestamp":"2016-01-25T15:04:00.600Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:04:00.672Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:04:00.673Z"}
+{"level":"info","message":"publishing slides for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:04:00.981Z"}
+{"level":"info","message":"publishing meetings for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:04:00.997Z"}
+{"level":"info","message":"publishing presentations for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","timestamp":"2016-01-25T15:04:01.009Z"}
+{"level":"info","message":"attempt publishing users for 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590, 5xg7iwtiwbko, mvs23csmitad","timestamp":"2016-01-25T15:04:01.031Z"}
+{"level":"info","message":"found it from the first time 5xg7iwtiwbko","timestamp":"2016-01-25T15:04:01.034Z"}
+{"level":"info","message":"in isAllowedTo: action-subscribeUsers, userId=5xg7iwtiwbko, authToken=mvs23csmitad validated:true","timestamp":"2016-01-25T15:04:01.035Z"}
+{"level":"info","message":"5xg7iwtiwbko was allowed to subscribe to 'users'","timestamp":"2016-01-25T15:04:01.038Z"}
+{"userid":"5xg7iwtiwbko","authToken":"mvs23csmitad","meetingid":"183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590","level":"info","message":"sending a validate_auth_token with","timestamp":"2016-01-25T15:04:01.038Z"}
+{"level":"info","message":"html5 user userid:[5xg7iwtiwbko] from [183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590] tried to revalidate token","timestamp":"2016-01-25T15:04:01.042Z"}
+{"channel":"bigbluebutton:to-bbb-apps:meeting","message":"Publishing","level":"info","timestamp":"2016-01-25T15:04:01.043Z"}
+{"level":"info","message":"username of the subscriber: html5, connection_status becomes online","timestamp":"2016-01-25T15:04:01.047Z"}
+{"message":"eventType=  validate_auth_token_reply  ","level":"info","timestamp":"2016-01-25T15:04:01.070Z"}
+{"message":"eventType=  get_users_reply  ","level":"info","timestamp":"2016-01-25T15:04:01.071Z"}
+{"message":"eventType=  user_joined_message  ","level":"info","timestamp":"2016-01-25T15:04:01.072Z"}
+{"level":"info","message":"in user_joined_message the validStatus of the user was true","timestamp":"2016-01-25T15:04:01.095Z"}
+{"level":"info","message":"UPDATING USER 5xg7iwtiwbko, authToken=mvs23csmitad","timestamp":"2016-01-25T15:04:01.104Z"}
+{"message":"eventType=  get_chat_history_reply  ","level":"info","timestamp":"2016-01-25T15:04:01.110Z"}
+{"message":"eventType=  get_presentation_info_reply  ","level":"info","timestamp":"2016-01-25T15:04:01.111Z"}
+{"level":"info","message":"user.validated for user 5xg7iwtiwbko in meeting 183f0bf3a0982a127bdb8161e0c44eb696b3e75c-1453730389590 just became true","timestamp":"2016-01-25T15:04:01.127Z"}
+{"message":"eventType=  user_voice_talking_message  ","level":"info","timestamp":"2016-01-25T15:04:01.578Z"}
+{"level":"info","message":"Logging sound","timestamp":"2016-01-25T15:04:01.579Z"}

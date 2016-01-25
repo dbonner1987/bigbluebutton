@@ -29,6 +29,12 @@
     -webkit-order: 2;
     order: 2;
   }
+
+  @media @mobile-portrait {
+    -webkit-flex: none;
+    flex: none;
+    height: 285px; //280px;
+  }
 }
 
 .chat {
@@ -62,12 +68,17 @@
   padding-right: 0px;
   @media @desktop-portrait, @mobile-portrait {
     max-height: 285px; //46vw; // for longer chatbody a scrollbar appears
+    height: 198px; //
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
   }
 
+  @media @mobile-landscape {
+    // height: 198px; //285px;
+  }
+
   > .chat {
-    height: calc(~'100% + 2px');
+    height: calc(~'100% + 10px');
   }
 }
 

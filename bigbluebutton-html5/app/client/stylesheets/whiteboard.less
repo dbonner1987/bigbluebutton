@@ -30,9 +30,22 @@
   }
 
   @media @mobile-landscape {
+    -webkit-flex: none;
+    -moz-flex: none; //2 2 50%;
+    -ms-flex: none;//2 2 50%;
+    flex: none;//2 2 50%;
     // height: 200px;
     max-width: 50%;
   }
+
+  @media @mobile-portrait {
+    -webkit-flex: none;
+       -moz-flex: none; //2 2 50%;
+    -ms-flex: none;//2 2 50%;
+    flex: none;//2 2 50%;
+    flex: none;
+  }
+
   &:-webkit-full-screen {
     width: 100%;
     height: 100%;
