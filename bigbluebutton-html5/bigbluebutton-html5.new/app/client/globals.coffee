@@ -264,8 +264,7 @@ Handlebars.registerHelper "visibility", (section) ->
 
 @appendMediaPlayerForAudio = (confId) ->
   $('body').append('<audio id="audio-player" class="ide" style="display:non;" width="100%" preload="metadata">'+
-    '<source src="//'+window.location.host+':8000/conference-'+confId+'-live.mp3" data-plugin-type="flash" type="audio/mp3" />'+
-  # '<source src="http://stream.dubstep.fm/;stream/1" data-plugin-type="native" type="application/vnd.apple.mpegURL" />'+
+    '<source src="http://'+window.location.host+':8000/conference-'+confId+'-live.mp3" data-plugin-type="flash" type="audio/mp3" />'+
   '</audio>')
   audioEl = document.getElementById('audio-player');
   audioEl.play();
