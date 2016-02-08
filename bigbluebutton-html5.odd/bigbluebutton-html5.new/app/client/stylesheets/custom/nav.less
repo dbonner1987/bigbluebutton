@@ -1,0 +1,54 @@
+@import "../variables";
+
+.myNavbar {
+    background: @color-gray-dark !important;
+    min-height: 50px !important;
+
+    .btn {
+        &,
+        &.navbarIconToggleActive {
+            background: @color-gray-dark;
+            border-right: none; // 1px solid lighten(@color-gray-dark, 10%);
+            border-left: none;
+            margin-right: 1px;
+            border-radius: 0;
+        }
+
+        &:hover {
+            background-color: @color-primary;
+        }
+    }
+
+    .signOutIcon {
+        margin-right: 0;
+    }
+}
+
+/* Update the chat panel navigation */
+.nav-tabs {
+    .active {
+        border: none !important;
+        background-color: @color-gray;
+    }
+
+    > li {
+        &.active {
+            a {
+                border: none;
+                // color: @color-white;
+            }
+        }
+
+        p {
+            padding: 5px 0 4px;
+        }
+    }
+}
+
+/**
+ * hide the tab bar altogether at the moment,
+ * there is no need for it just now.
+ */
+#tabsList {
+    display: none;
+}
